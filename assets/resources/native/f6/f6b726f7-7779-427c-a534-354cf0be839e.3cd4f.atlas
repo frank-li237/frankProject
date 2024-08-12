@@ -1,0 +1,160 @@
+
+youwin.png
+size: 1000,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/gt
+  rotate: true
+  xy: 817, 41
+  size: 74, 81
+  orig: 74, 81
+  offset: 0, 0
+  index: -1
+images/i
+  rotate: true
+  xy: 906, 436
+  size: 26, 86
+  orig: 26, 86
+  offset: 0, 0
+  index: -1
+images/lizi/lizi0001
+  rotate: false
+  xy: 906, 464
+  size: 92, 92
+  orig: 284, 304
+  offset: 129, 140
+  index: -1
+images/lizi/lizi0003
+  rotate: false
+  xy: 817, 117
+  size: 112, 113
+  orig: 284, 304
+  offset: 116, 128
+  index: -1
+images/lizi/lizi0005
+  rotate: true
+  xy: 680, 102
+  size: 128, 135
+  orig: 284, 304
+  offset: 108, 116
+  index: -1
+images/lizi/lizi0007
+  rotate: false
+  xy: 843, 249
+  size: 145, 152
+  orig: 284, 304
+  offset: 99, 108
+  index: -1
+images/lizi/lizi0009
+  rotate: false
+  xy: 680, 232
+  size: 161, 169
+  orig: 284, 304
+  offset: 90, 100
+  index: -1
+images/lizi/lizi0011
+  rotate: true
+  xy: 440, 2
+  size: 176, 189
+  orig: 284, 304
+  offset: 82, 90
+  index: -1
+images/lizi/lizi0013
+  rotate: true
+  xy: 229, 8
+  size: 193, 209
+  orig: 284, 304
+  offset: 73, 79
+  index: -1
+images/lizi/lizi0015
+  rotate: false
+  xy: 465, 327
+  size: 211, 229
+  orig: 284, 304
+  offset: 62, 68
+  index: -1
+images/lizi/lizi0017
+  rotate: false
+  xy: 2, 5
+  size: 225, 202
+  orig: 284, 304
+  offset: 51, 58
+  index: -1
+images/lizi/lizi0019
+  rotate: true
+  xy: 243, 203
+  size: 243, 220
+  orig: 284, 304
+  offset: 40, 47
+  index: -1
+images/lizi/lizi0021
+  rotate: false
+  xy: 2, 209
+  size: 239, 237
+  orig: 284, 304
+  offset: 28, 36
+  index: -1
+images/lizi/lizi0023
+  rotate: false
+  xy: 465, 180
+  size: 213, 145
+  orig: 284, 304
+  offset: 17, 26
+  index: -1
+images/lizi/lizi0025
+  rotate: false
+  xy: 678, 403
+  size: 226, 153
+  orig: 284, 304
+  offset: 7, 16
+  index: -1
+images/n
+  rotate: true
+  xy: 729, 26
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+images/o
+  rotate: false
+  xy: 631, 21
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+images/shanxing
+  rotate: true
+  xy: 931, 103
+  size: 61, 62
+  orig: 91, 91
+  offset: 15, 13
+  index: -1
+images/u
+  rotate: true
+  xy: 906, 408
+  size: 26, 79
+  orig: 26, 79
+  offset: 0, 0
+  index: -1
+images/w
+  rotate: false
+  xy: 931, 166
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+images/y1
+  rotate: true
+  xy: 900, 27
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+images/youwin/YOU WIN_00000
+  rotate: false
+  xy: 2, 448
+  size: 438, 108
+  orig: 438, 109
+  offset: 0, 1
+  index: -1
