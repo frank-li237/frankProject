@@ -1,0 +1,132 @@
+
+question_dc.png
+size: 237,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meimao1
+  rotate: true
+  xy: 184, 3
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+meimao2
+  rotate: false
+  xy: 204, 27
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 169, 166
+  orig: 169, 166
+  offset: 0, 0
+  index: -1
+tongkong1
+  rotate: false
+  xy: 208, 110
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+wenhao1
+  rotate: true
+  xy: 170, 142
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+wenhao2
+  rotate: true
+  xy: 170, 116
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+yingyin1
+  rotate: false
+  xy: 170, 91
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+yinying2
+  rotate: false
+  xy: 170, 59
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+youtongkong
+  rotate: false
+  xy: 208, 104
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 208, 74
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+youyanpi
+  rotate: true
+  xy: 170, 8
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+youyanwen1
+  rotate: false
+  xy: 184, 32
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+youyanwen2
+  rotate: true
+  xy: 219, 150
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 216, 102
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 207, 46
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+zuoyanpi
+  rotate: false
+  xy: 170, 42
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+zuoyanwen1
+  rotate: true
+  xy: 229, 27
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+zuoyanwne2
+  rotate: false
+  xy: 219, 130
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
