@@ -1,1 +1,871 @@
-{"importBase":"import","nativeBase":"native","name":"resources","deps":[],"uuids":["01a5ed265","0236e4f69","024826b4a","02ee3a4d7","03535403a","0422470b3","055f07350","05894e8c0","0809e2ece","083dd4748","08c876b41","09a00e6c0","0apfFriltCCLtwCSnoghAt","0b8a1f3eb","0ba9b0bbe","0cc537fa5","0d0fd1420","0d12ed026","0d3NcZHCVDI4/gWcbCKLaw","12JormMyhJU6b+EMNSb37v@6c48a","1ahLm0cyZLDpqIZJ2mCnxh","1akKXj7wRIGJtgIGeHEwC4","1bX44x2spPtI06rgThD0hH","1dq3/6lrRL/pEhZHRxrYYG@6c48a","22YzeZGMdATpCGX+cjeu12","29fz7auBhEqaNd+iP9YeCq@6c48a","32sfox9j1Cu44f6zyOJ0yq","33Pt0OL69DNL3bOfUlaJ6w","35O1VnkxBCtYluJXibCqXe@6c48a","3eS7sS5thHYLIgPJb3W0Yt","41sZXxHupEprGMob6bH/X2","43VFd211lOqZ/IcLoFm3k7","44Xt+fdudHjLS9zYv1bR5M@6c48a","47K+v68VpA6rPZokuQJN/M","47sYlBnsRDCYvWAKFJ4k9l@6c48a","48TfCyErlCKqf1Hu/3jqNv@6c48a","4b8bvAudpKH6NLAHXf92Ef","51zCKjpgxEIp6/uh76t+HX@6c48a","53BZPUqXVA7poE3AY6r7OA@6c48a","53NixUF2ZFbqWYV+7PDRr3","56YlMZYTRHKq8XmkJi9ke0@6c48a","56aNAfonVOypHTf6tm3o2U","56kCXtNDRDLqX42nUYtejs","5bN9vXjWZO141XSL+vhX6C@6c48a","5cFnXbmqBKorak/cp0NZd7","64A2Y+IqxJlLlYWSJDY0Os@6c48a","6aww37G2xKD6Pu1hwl3Ycz@6c48a","6fHgJPl05Oi6BuM61cFC8Y","75kkX3FnFI3KKnz+rLfR/c","7edcvWEpZBz4c5Q4GkC2HU","7fzZx1XlRF3oAi5FojmKrv","80XxcFPClCvqMkoQEdsi+g","81h5w9L+1HyYwAEBRYLs6f","82R14fdjhKDa0A6R+5sY9o@6c48a","84CCDPcNNOp5cPGQNmJ3jO","93qfT6JdxGMqMrZLS30+bS","9cZl8lqE9Mbb3qRiec7CqU","a2LSJLsD1Fgqn5C9vABa3J@6c48a","a6YtP5CnpKk44D4TNF52oD","aaSBNexsBOlpq0n8PqQ+4J","c9PXkWmtJMxbUc0M/v/339@6c48a","cdqZupZw1NQoF+R3KrB6j8@6c48a","ceAGeV1T5OQrcK52q7f+iA@6c48a","d0z0rtZTpN4rKVcWKeLkXn@6c48a","d12ilMqahGqKHH1lYAqjPq","d7K+zO/MxAYZU7s2xqcLEL@6c48a","d8b3+YgThFn4/7W7N4CqcU@6c48a","e7X373AUNLYpd9K6J0qSXE@6c48a","ed+2Kerm9OJbBdnEQ/IOrG","f1JFghL2hBlqJFqVcCmHY4","f72tvEjTBGep3xI+XEr4cm","12JormMyhJU6b+EMNSb37v","12JormMyhJU6b+EMNSb37v@f9941","1aW+lboetJBoUHFKH7D0Y8","1dq3/6lrRL/pEhZHRxrYYG","1dq3/6lrRL/pEhZHRxrYYG@f9941","26t1JRXGdLap+zIrQ/bXDc","29fz7auBhEqaNd+iP9YeCq","29fz7auBhEqaNd+iP9YeCq@f9941","35O1VnkxBCtYluJXibCqXe","35O1VnkxBCtYluJXibCqXe@f9941","36zVdHsjxLS4nP53ujIiYF","3aP3YQnC1LgbTZ/fOpDM6U","3a+8QWA6RAjZHcGFi2A7/m","44Xt+fdudHjLS9zYv1bR5M","44Xt+fdudHjLS9zYv1bR5M@f9941","47sYlBnsRDCYvWAKFJ4k9l","47sYlBnsRDCYvWAKFJ4k9l@f9941","48DhZ3p8BHmJ7aO03L82J9","48TfCyErlCKqf1Hu/3jqNv","48TfCyErlCKqf1Hu/3jqNv@f9941","4dyxm+04tHyb2qTAa4HmlW","51zCKjpgxEIp6/uh76t+HX","51zCKjpgxEIp6/uh76t+HX@f9941","53BZPUqXVA7poE3AY6r7OA","53BZPUqXVA7poE3AY6r7OA@f9941","56YlMZYTRHKq8XmkJi9ke0","56YlMZYTRHKq8XmkJi9ke0@f9941","5bN9vXjWZO141XSL+vhX6C","5bN9vXjWZO141XSL+vhX6C@f9941","64A2Y+IqxJlLlYWSJDY0Os","64A2Y+IqxJlLlYWSJDY0Os@f9941","6aww37G2xKD6Pu1hwl3Ycz","6aww37G2xKD6Pu1hwl3Ycz@f9941","7epOHoyK1KX5YQevuyKyKY","82R14fdjhKDa0A6R+5sY9o","82R14fdjhKDa0A6R+5sY9o@f9941","98ztiCGe5C55WzzMUjxqrL","a1gjU25S9Iw4zhzTxS61ce","a2LSJLsD1Fgqn5C9vABa3J","a2LSJLsD1Fgqn5C9vABa3J@f9941","acmKVd5bVLsoKHl3AXQNBe","b2+IhSuDFNZIQl0rFbDyW7","b9KD7en7ZJhorVkNE2tklB","b990fdo0tDSY9P5WurWnje","c2oTlJ4EpPvq0tFyNaRwam","c3vArohppOgLst0fEI4mCW","c9PXkWmtJMxbUc0M/v/339","c9PXkWmtJMxbUc0M/v/339@f9941","cdqZupZw1NQoF+R3KrB6j8","cdqZupZw1NQoF+R3KrB6j8@f9941","ceAGeV1T5OQrcK52q7f+iA","ceAGeV1T5OQrcK52q7f+iA@f9941","d0z0rtZTpN4rKVcWKeLkXn","d0z0rtZTpN4rKVcWKeLkXn@f9941","d7K+zO/MxAYZU7s2xqcLEL","d7K+zO/MxAYZU7s2xqcLEL@f9941","d7fmdk95tHs46m3DY39657","d8b3+YgThFn4/7W7N4CqcU","d8b3+YgThFn4/7W7N4CqcU@f9941","e7X373AUNLYpd9K6J0qSXE","e7X373AUNLYpd9K6J0qSXE@f9941","e9Y9PW/mNGwLSjGEUqsFZ6","e9hXUsXD5NlIZzLXCRIKvo","e9qct6IXdADIhCXb7s7fVe","eayd92yrVMXrk8MXppBW5z","f5WVTyj0VKp61vEazLafRz","f6tyb3d3lCfKU0NUzwvoOe","faPd+GIZVJTJuk40RsffJx","faub59D3dKhJdPsdPPzAme","fbQIs99AVP6Zm/GMn/RQXO"],"paths":{"12":["CCRes/TexasGamePlay/Spine/Expression/self-evident",7,1],"18":["CCRes/TexasGamePlay/Spine/Expression/sad_dc",6,1],"19":["CCRes/TexasGamePlay/TexasGameBg1/texture",2,1],"20":["CCRes/TexasGamePlay/Spine/Expression/self-evident_dc",6,1],"21":["CCRes/TexasGamePlay/Spine/Expression/question_dc",6,1],"22":["CCRes/TexasGamePlay/Spine/Expression/alarmed_dc",6,1],"23":["CCRes/TexasGamePlay/Spine/Expression/despise_dc/texture",2,1],"24":["CCRes/TexasGamePlay/Spine/Expression/question",7,1],"25":["CCRes/TexasGamePlay/Spine/Expression/alarmed_dc/texture",2,1],"26":["CCRes/TexasGamePlay/Spine/Expression/sad",7,1],"27":["CCRes/TexasGamePlay/Spine/Expression/provoke_dc",6,1],"28":["FGUI/Launch_atlas0/texture",2,1],"29":["CCRes/TexasGamePlay/Spine/Expression/sweating",7,1],"30":["CCRes/TexasGamePlay/Spine/Expression/laugh",7,1],"31":["CCRes/TexasGamePlay/Spine/Expression/provoke",7,1],"32":["CCRes/TexasGamePlay/Spine/Expression/sad_dc/texture",2,1],"33":["CCRes/TexasGamePlay/Spine/Expression/fire_dc",6,1],"34":["CCRes/TexasGamePlay/Spine/Expression/provoke_dc/texture",2,1],"35":["CCRes/TexasGamePlay/Spine/Expression/sweating_dc/texture",2,1],"36":["CCRes/TexasGamePlay/Spine/Expression/wink",7,1],"37":["CCRes/TexasGamePlay/Spine/Expression/fire_dc/texture",2,1],"38":["CCRes/TexasGamePlay/Spine/Expression/laugh_dc/texture",2,1],"39":["CCRes/TexasGamePlay/Spine/Expression/cry",7,1],"40":["CCRes/TexasGamePlay/Spine/Expression/cry_dc/texture",2,1],"41":["CCRes/TexasGamePlay/Spine/Expression/fire",7,1],"42":["CCRes/TexasGamePlay/Spine/Expression/wink_dc",6,1],"43":["CCRes/TexasGamePlay/Spine/Expression/question_dc/texture",2,1],"44":["CCRes/TexasGamePlay/Spine/Expression/sweating_dc",6,1],"45":["FGUI/Lobby_atlas0/texture",2,1],"46":["CCRes/TexasGamePlay/Spine/youwin/texture",2,1],"47":["CCRes/TexasGamePlay/Spine/Expression/anger_dc",6,1],"48":["CCRes/TexasGamePlay/Spine/Expression/heart-broken_dc",6,1],"49":["CCRes/TexasGamePlay/Spine/Expression/hurry_dc",6,1],"50":["CCRes/TexasGamePlay/Spine/Expression/despise_dc",6,1],"51":["CCRes/TexasGamePlay/Spine/Expression/heart-broken",7,1],"52":["CCRes/TexasGamePlay/Spine/Expression/blab",7,1],"53":["CCRes/TexasGamePlay/Spine/Expression/heart-broken_dc/texture",2,1],"54":["CCRes/TexasGamePlay/Spine/Expression/laugh_dc",6,1],"55":["CCRes/TexasGamePlay/Spine/Expression/despise",7,1],"56":["CCRes/TexasGamePlay/Spine/Expression/alarmed",7,1],"57":["CCRes/TexasGamePlay/Spine/Expression/blab_dc/texture",2,1],"58":["CCRes/TexasGamePlay/Spine/Expression/anger",7,1],"59":["CCRes/TexasGamePlay/Spine/Expression/blab_dc",6,1],"60":["CCRes/TexasGamePlay/Spine/Expression/anger_dc/texture",2,1],"61":["FGUI/Login_atlas0/texture",2,1],"62":["FGUI/GamePlay_atlas0/texture",2,1],"63":["CCRes/TexasGamePlay/Spine/Expression/hurry_dc/texture",2,1],"64":["CCRes/TexasGamePlay/Spine/YouWIn",7,1],"65":["FGUI/Public_atlas0/texture",2,1],"66":["CCRes/TexasGamePlay/Spine/Expression/wink_dc/texture",2,1],"67":["CCRes/TexasGamePlay/Spine/Expression/self-evident_dc/texture",2,1],"68":["CCRes/TexasGamePlay/Spine/youwin",6,1],"69":["CCRes/TexasGamePlay/Spine/Expression/cry_dc",6,1],"70":["CCRes/TexasGamePlay/Spine/Expression/hurry",7,1],"71":["CCRes/TexasGamePlay/TexasGameBg1",1,1],"72":["CCRes/TexasGamePlay/TexasGameBg1/spriteFrame",3,1],"73":["CCRes/TexasGamePlay/Spine/Expression/self-evident_dc",5,1],"74":["CCRes/TexasGamePlay/Spine/Expression/despise_dc",1,1],"75":["CCRes/TexasGamePlay/Spine/Expression/despise_dc/spriteFrame",3,1],"76":["TTFFont/HelveticaNeue-Bold-02",4,1],"77":["CCRes/TexasGamePlay/Spine/Expression/alarmed_dc",1,1],"78":["CCRes/TexasGamePlay/Spine/Expression/alarmed_dc/spriteFrame",3,1],"79":["FGUI/Launch_atlas0",1,1],"80":["FGUI/Launch_atlas0/spriteFrame",3,1],"81":["CCRes/TexasGamePlay/Spine/Expression/sad_dc",5,1],"82":["TTFFont/HelveticaNeue-01",4,1],"83":["FGUI/Launch",0,1],"84":["CCRes/TexasGamePlay/Spine/Expression/sad_dc",1,1],"85":["CCRes/TexasGamePlay/Spine/Expression/sad_dc/spriteFrame",3,1],"86":["CCRes/TexasGamePlay/Spine/Expression/provoke_dc",1,1],"87":["CCRes/TexasGamePlay/Spine/Expression/provoke_dc/spriteFrame",3,1],"88":["FGUI/Debug",0,1],"89":["CCRes/TexasGamePlay/Spine/Expression/sweating_dc",1,1],"90":["CCRes/TexasGamePlay/Spine/Expression/sweating_dc/spriteFrame",3,1],"91":["CCRes/TexasGamePlay/Spine/Expression/despise_dc",5,1],"92":["CCRes/TexasGamePlay/Spine/Expression/fire_dc",1,1],"93":["CCRes/TexasGamePlay/Spine/Expression/fire_dc/spriteFrame",3,1],"94":["CCRes/TexasGamePlay/Spine/Expression/laugh_dc",1,1],"95":["CCRes/TexasGamePlay/Spine/Expression/laugh_dc/spriteFrame",3,1],"96":["CCRes/TexasGamePlay/Spine/Expression/cry_dc",1,1],"97":["CCRes/TexasGamePlay/Spine/Expression/cry_dc/spriteFrame",3,1],"98":["CCRes/TexasGamePlay/Spine/Expression/question_dc",1,1],"99":["CCRes/TexasGamePlay/Spine/Expression/question_dc/spriteFrame",3,1],"100":["FGUI/Lobby_atlas0",1,1],"101":["FGUI/Lobby_atlas0/spriteFrame",3,1],"102":["CCRes/TexasGamePlay/Spine/youwin",1,1],"103":["CCRes/TexasGamePlay/Spine/youwin/spriteFrame",3,1],"104":["CCRes/TexasGamePlay/Spine/Expression/heart-broken_dc",5,1],"105":["CCRes/TexasGamePlay/Spine/Expression/heart-broken_dc",1,1],"106":["CCRes/TexasGamePlay/Spine/Expression/heart-broken_dc/spriteFrame",3,1],"107":["FGUI/Lobby",0,1],"108":["FGUI/Login",0,1],"109":["CCRes/TexasGamePlay/Spine/Expression/blab_dc",1,1],"110":["CCRes/TexasGamePlay/Spine/Expression/blab_dc/spriteFrame",3,1],"111":["CCRes/TexasGamePlay/Spine/Expression/fire_dc",5,1],"112":["TTFFont/HelveticaNeue-Medium-11",4,1],"113":["FGUI/TexasGame",0,1],"114":["CCRes/TexasGamePlay/Spine/Expression/anger_dc",5,1],"115":["CCRes/TexasGamePlay/Spine/Expression/sweating_dc",5,1],"116":["CCRes/TexasGamePlay/Spine/Expression/wink_dc",5,1],"117":["CCRes/TexasGamePlay/Spine/Expression/anger_dc",1,1],"118":["CCRes/TexasGamePlay/Spine/Expression/anger_dc/spriteFrame",3,1],"119":["FGUI/Login_atlas0",1,1],"120":["FGUI/Login_atlas0/spriteFrame",3,1],"121":["FGUI/GamePlay_atlas0",1,1],"122":["FGUI/GamePlay_atlas0/spriteFrame",3,1],"123":["CCRes/TexasGamePlay/Spine/Expression/hurry_dc",1,1],"124":["CCRes/TexasGamePlay/Spine/Expression/hurry_dc/spriteFrame",3,1],"125":["FGUI/Public_atlas0",1,1],"126":["FGUI/Public_atlas0/spriteFrame",3,1],"127":["FGUI/Public",0,1],"128":["CCRes/TexasGamePlay/Spine/Expression/wink_dc",1,1],"129":["CCRes/TexasGamePlay/Spine/Expression/wink_dc/spriteFrame",3,1],"130":["CCRes/TexasGamePlay/Spine/Expression/self-evident_dc",1,1],"131":["CCRes/TexasGamePlay/Spine/Expression/self-evident_dc/spriteFrame",3,1],"132":["CCRes/TexasGamePlay/Spine/Expression/laugh_dc",5,1],"133":["CCRes/TexasGamePlay/Spine/Expression/provoke_dc",5,1],"134":["FGUI/GamePlay",0,1],"135":["CCRes/TexasGamePlay/Spine/Expression/cry_dc",5,1],"136":["CCRes/TexasGamePlay/Spine/Expression/hurry_dc",5,1],"137":["CCRes/TexasGamePlay/Spine/youwin",5,1],"138":["CCRes/TexasGamePlay/Spine/Expression/alarmed_dc",5,1],"139":["CCRes/TexasGamePlay/Spine/Expression/question_dc",5,1],"140":["CCRes/TexasGamePlay/Spine/Expression/blab_dc",5,1]},"scenes":{},"packs":{"01a5ed265":[52,59],"0236e4f69":[12,20],"024826b4a":[47,58],"02ee3a4d7":[39,69],"03535403a":[50,55],"0422470b3":[23,43,46,34,37,25,28,32,35,19,53,38,45,40,57,60,61,62,63,65,66,67],"055f07350":[30,54],"05894e8c0":[36,42],"0809e2ece":[29,44],"083dd4748":[48,51],"08c876b41":[64,68],"09a00e6c0":[49,70],"0b8a1f3eb":[33,41],"0ba9b0bbe":[22,56],"0cc537fa5":[21,24],"0d0fd1420":[18,26],"0d12ed026":[27,31]},"versions":{"import":[],"native":[]},"redirect":[],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.BufferAsset","cc.ImageAsset","cc.Texture2D","cc.SpriteFrame","cc.TTFFont","cc.Asset","sp.SkeletonData","cc.Prefab"]}
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "01a5ed265",
+        "0236e4f69",
+        "024826b4a",
+        "02ee3a4d7",
+        "03535403a",
+        "0422470b3",
+        "055f07350",
+        "05894e8c0",
+        "0809e2ece",
+        "083dd4748",
+        "08c876b41",
+        "09a00e6c0",
+        "0aa5f16b-8a5b-4208-bb70-0929e882102d",
+        "0b8a1f3eb",
+        "0ba9b0bbe",
+        "0cc537fa5",
+        "0d0fd1420",
+        "0d12ed026",
+        "0ddcd719-1c25-4323-8fe0-59c6c228b6b0",
+        "12268ae6-3328-4953-a6fe-10c3526f7eef",
+        "12268ae6-3328-4953-a6fe-10c3526f7eef@6c48a",
+        "12268ae6-3328-4953-a6fe-10c3526f7eef@f9941",
+        "1a5be95b-a1eb-4906-8507-14a1fb0f463c",
+        "1a84b9b4-7326-4b0e-9a88-649da60a7c61",
+        "1a90a5e3-ef04-4818-9b60-2067871300b8",
+        "1b5f8e31-daca-4fb4-8d3a-ae04e10f4847",
+        "1dab7ffa-96b4-4bfe-9121-647471ad8606",
+        "1dab7ffa-96b4-4bfe-9121-647471ad8606@6c48a",
+        "1dab7ffa-96b4-4bfe-9121-647471ad8606@f9941",
+        "22633799-18c7-404e-9086-5fe7237aed76",
+        "26b75251-5c67-4b6a-9fb3-22b43f6d70dc",
+        "297f3eda-b818-44a9-a35d-fa23fd61e0aa",
+        "297f3eda-b818-44a9-a35d-fa23fd61e0aa@6c48a",
+        "297f3eda-b818-44a9-a35d-fa23fd61e0aa@f9941",
+        "32b1fa31-f63d-42bb-8e1f-eb3c8e274caa",
+        "333edd0e-2faf-4334-bddb-39f525689eb0",
+        "353b5567-9310-42b5-896e-25789b0aa5de",
+        "353b5567-9310-42b5-896e-25789b0aa5de@6c48a",
+        "353b5567-9310-42b5-896e-25789b0aa5de@f9941",
+        "36cd5747-b23c-4b4b-89cf-e77ba3222605",
+        "3a3f7610-9c2d-4b81-b4d9-fdf3a90cce94",
+        "3afbc416-03a4-408d-91dc-1858b603bfe6",
+        "3e4bbb12-e6d8-4760-b220-3c96f75b462d",
+        "41b195f1-1eea-44a6-b18c-a1be9b1ff5f6",
+        "43545776-d759-4ea9-9fc8-70ba059b793b",
+        "445edf9f-76e7-478c-b4bd-cd8bf56d1e4c",
+        "445edf9f-76e7-478c-b4bd-cd8bf56d1e4c@6c48a",
+        "445edf9f-76e7-478c-b4bd-cd8bf56d1e4c@f9941",
+        "472bebfa-f15a-40ea-b3d9-a24b9024dfcc",
+        "47b18941-9ec4-4309-8bd6-00a149e24f65",
+        "47b18941-9ec4-4309-8bd6-00a149e24f65@6c48a",
+        "47b18941-9ec4-4309-8bd6-00a149e24f65@f9941",
+        "480e1677-a7c0-4798-9eda-3b4dcbf3627d",
+        "484df0b2-12b9-422a-a7f5-1eeff78ea36f",
+        "484df0b2-12b9-422a-a7f5-1eeff78ea36f@6c48a",
+        "484df0b2-12b9-422a-a7f5-1eeff78ea36f@f9941",
+        "4bf1bbc0-b9da-4a1f-a34b-0075dff7611f",
+        "4dcb19be-d38b-47c9-bdaa-4c06b81e6956",
+        "51cc22a3-a60c-4422-9ebf-ba1efab7e1d7",
+        "51cc22a3-a60c-4422-9ebf-ba1efab7e1d7@6c48a",
+        "51cc22a3-a60c-4422-9ebf-ba1efab7e1d7@f9941",
+        "530593d4-a975-40ee-9a04-dc063aafb380",
+        "530593d4-a975-40ee-9a04-dc063aafb380@6c48a",
+        "530593d4-a975-40ee-9a04-dc063aafb380@f9941",
+        "53362c54-1766-456e-a598-57eecf0d1af7",
+        "56625319-6134-472a-af17-9a4262f647b4",
+        "56625319-6134-472a-af17-9a4262f647b4@6c48a",
+        "56625319-6134-472a-af17-9a4262f647b4@f9941",
+        "5668d01f-a275-4eca-91d3-7fab66de8d94",
+        "569025ed-3434-432e-a5f8-da7518b5e8ec",
+        "5b37dbd7-8d66-4ed7-8d57-48bfaf857e82",
+        "5b37dbd7-8d66-4ed7-8d57-48bfaf857e82@6c48a",
+        "5b37dbd7-8d66-4ed7-8d57-48bfaf857e82@f9941",
+        "5c1675db-9aa0-4aa2-b6a4-fdca7435977b",
+        "6403663e-22ac-4994-b958-5922436343ac",
+        "6403663e-22ac-4994-b958-5922436343ac@6c48a",
+        "6403663e-22ac-4994-b958-5922436343ac@f9941",
+        "6ac30dfb-1b6c-4a0f-a3ee-d61c25dd8733",
+        "6ac30dfb-1b6c-4a0f-a3ee-d61c25dd8733@6c48a",
+        "6ac30dfb-1b6c-4a0f-a3ee-d61c25dd8733@f9941",
+        "6f1e024f-974e-4e8b-a06e-33ad5c142f18",
+        "759245f7-1671-48dc-a2a7-cfeacb7d1fdc",
+        "7e75cbd6-1296-41cf-8739-4381a40b61d4",
+        "7ea4e1e8-c8ad-4a5f-9610-7afbb22b2298",
+        "7fcd9c75-5e54-45de-8022-e45a2398aaef",
+        "805f1705-3c29-42be-a324-a1011db22fa0",
+        "81879c3d-2fed-47c9-8c00-1014582ece9f",
+        "82475e1f-7638-4a0d-ad00-e91fb9b18f68",
+        "82475e1f-7638-4a0d-ad00-e91fb9b18f68@6c48a",
+        "82475e1f-7638-4a0d-ad00-e91fb9b18f68@f9941",
+        "840820cf-70d3-4ea7-970f-1903662778ce",
+        "93a9f4fa-25dc-4632-a32b-64b4b7d3e6d2",
+        "98ced882-19ee-42e7-95b3-ccc523c6aacb",
+        "9c665f25-a84f-4c6d-bdea-46279cec2a94",
+        "a1823536-e52f-48c3-8ce1-cd3c52eb571e",
+        "a22d224b-b03d-4582-a9f9-0bdbc005adc9",
+        "a22d224b-b03d-4582-a9f9-0bdbc005adc9@6c48a",
+        "a22d224b-b03d-4582-a9f9-0bdbc005adc9@f9941",
+        "a662d3f9-0a7a-4a93-8e03-e13345e76a03",
+        "aa48135e-c6c0-4e96-9ab4-9fc3ea43ee09",
+        "ac98a55d-e5b5-4bb2-8287-97701740d05e",
+        "b2f88852-b831-4d64-8425-d2b15b0f25bb",
+        "b9283ede-9fb6-4986-8ad5-90d136b64941",
+        "b9f747dd-a34b-4349-8f4f-e56bab5a78de",
+        "c2a13949-e04a-4fbe-ad2d-17235a4706a6",
+        "c3bc0ae8-869a-4e80-bb2d-d1f108e26096",
+        "c93d7916-9ad2-4cc5-b51c-d0cfefff7dfd",
+        "c93d7916-9ad2-4cc5-b51c-d0cfefff7dfd@6c48a",
+        "c93d7916-9ad2-4cc5-b51c-d0cfefff7dfd@f9941",
+        "cda99ba9-670d-4d42-817e-4772ab07a8fc",
+        "cda99ba9-670d-4d42-817e-4772ab07a8fc@6c48a",
+        "cda99ba9-670d-4d42-817e-4772ab07a8fc@f9941",
+        "ce006795-d53e-4e42-b70a-e76abb7fe880",
+        "ce006795-d53e-4e42-b70a-e76abb7fe880@6c48a",
+        "ce006795-d53e-4e42-b70a-e76abb7fe880@f9941",
+        "d0cf4aed-653a-4de2-b295-71629e2e45e7",
+        "d0cf4aed-653a-4de2-b295-71629e2e45e7@6c48a",
+        "d0cf4aed-653a-4de2-b295-71629e2e45e7@f9941",
+        "d1da294c-a9a8-46a8-a1c7-d65600aa33ea",
+        "d72becce-fccc-4061-953b-b36c6a70b10b",
+        "d72becce-fccc-4061-953b-b36c6a70b10b@6c48a",
+        "d72becce-fccc-4061-953b-b36c6a70b10b@f9941",
+        "d77e6764-f79b-47b3-8ea6-dc3637f7ae7b",
+        "d86f7f98-8138-459f-8ffb-5bb3780aa714",
+        "d86f7f98-8138-459f-8ffb-5bb3780aa714@6c48a",
+        "d86f7f98-8138-459f-8ffb-5bb3780aa714@f9941",
+        "e75f7ef7-0143-4b62-977d-2ba274a925c4",
+        "e75f7ef7-0143-4b62-977d-2ba274a925c4@6c48a",
+        "e75f7ef7-0143-4b62-977d-2ba274a925c4@f9941",
+        "e963d3d6-fe63-46c0-b4a3-18452ab0567a",
+        "e985752c-5c3e-4d94-8673-2d709120abe8",
+        "e9a9cb7a-2177-400c-8842-5dbeecedf55e",
+        "eac9df76-cab5-4c5e-b93c-317a69056e73",
+        "edfb629e-ae6f-4e25-b05d-9c443f20eac6",
+        "f1245821-2f68-4196-a245-a95702987638",
+        "f55954f2-8f45-4aa7-ad6f-11accb69f473",
+        "f6b726f7-7779-427c-a534-354cf0be839e",
+        "f7dadbc4-8d30-467a-9df1-23e5c4af8726",
+        "fa3ddf86-2195-494c-9ba4-e3446c7df271",
+        "fab9be7d-0f77-4a84-974f-b1d3cfcc099e",
+        "fb408b3d-f405-4fe9-99bf-18c9ff4505ce"
+    ],
+    "paths": {
+        "480e1677-a7c0-4798-9eda-3b4dcbf3627d": [
+            "FGUI/Debug",
+            "cc.BufferAsset",
+            1
+        ],
+        "e9a9cb7a-2177-400c-8842-5dbeecedf55e": [
+            "FGUI/GamePlay",
+            "cc.BufferAsset",
+            1
+        ],
+        "ce006795-d53e-4e42-b70a-e76abb7fe880": [
+            "FGUI/GamePlay_atlas0",
+            "cc.ImageAsset",
+            1
+        ],
+        "ce006795-d53e-4e42-b70a-e76abb7fe880@6c48a": [
+            "FGUI/GamePlay_atlas0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ce006795-d53e-4e42-b70a-e76abb7fe880@f9941": [
+            "FGUI/GamePlay_atlas0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3afbc416-03a4-408d-91dc-1858b603bfe6": [
+            "FGUI/Launch",
+            "cc.BufferAsset",
+            1
+        ],
+        "353b5567-9310-42b5-896e-25789b0aa5de": [
+            "FGUI/Launch_atlas0",
+            "cc.ImageAsset",
+            1
+        ],
+        "353b5567-9310-42b5-896e-25789b0aa5de@6c48a": [
+            "FGUI/Launch_atlas0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "353b5567-9310-42b5-896e-25789b0aa5de@f9941": [
+            "FGUI/Launch_atlas0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "98ced882-19ee-42e7-95b3-ccc523c6aacb": [
+            "FGUI/Lobby",
+            "cc.BufferAsset",
+            1
+        ],
+        "6403663e-22ac-4994-b958-5922436343ac": [
+            "FGUI/Lobby_atlas0",
+            "cc.ImageAsset",
+            1
+        ],
+        "6403663e-22ac-4994-b958-5922436343ac@6c48a": [
+            "FGUI/Lobby_atlas0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6403663e-22ac-4994-b958-5922436343ac@f9941": [
+            "FGUI/Lobby_atlas0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a1823536-e52f-48c3-8ce1-cd3c52eb571e": [
+            "FGUI/Login",
+            "cc.BufferAsset",
+            1
+        ],
+        "cda99ba9-670d-4d42-817e-4772ab07a8fc": [
+            "FGUI/Login_atlas0",
+            "cc.ImageAsset",
+            1
+        ],
+        "cda99ba9-670d-4d42-817e-4772ab07a8fc@6c48a": [
+            "FGUI/Login_atlas0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "cda99ba9-670d-4d42-817e-4772ab07a8fc@f9941": [
+            "FGUI/Login_atlas0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d77e6764-f79b-47b3-8ea6-dc3637f7ae7b": [
+            "FGUI/Public",
+            "cc.BufferAsset",
+            1
+        ],
+        "d72becce-fccc-4061-953b-b36c6a70b10b": [
+            "FGUI/Public_atlas0",
+            "cc.ImageAsset",
+            1
+        ],
+        "d72becce-fccc-4061-953b-b36c6a70b10b@6c48a": [
+            "FGUI/Public_atlas0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d72becce-fccc-4061-953b-b36c6a70b10b@f9941": [
+            "FGUI/Public_atlas0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b9283ede-9fb6-4986-8ad5-90d136b64941": [
+            "FGUI/TexasGame",
+            "cc.BufferAsset",
+            1
+        ],
+        "3a3f7610-9c2d-4b81-b4d9-fdf3a90cce94": [
+            "TTFFont/HelveticaNeue-01",
+            "cc.TTFFont",
+            1
+        ],
+        "26b75251-5c67-4b6a-9fb3-22b43f6d70dc": [
+            "TTFFont/HelveticaNeue-Bold-02",
+            "cc.TTFFont",
+            1
+        ],
+        "b2f88852-b831-4d64-8425-d2b15b0f25bb": [
+            "TTFFont/HelveticaNeue-Medium-11",
+            "cc.TTFFont",
+            1
+        ],
+        "12268ae6-3328-4953-a6fe-10c3526f7eef": [
+            "CCRes/TexasGamePlay/TexasGameBg1",
+            "cc.ImageAsset",
+            1
+        ],
+        "12268ae6-3328-4953-a6fe-10c3526f7eef@6c48a": [
+            "CCRes/TexasGamePlay/TexasGameBg1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "12268ae6-3328-4953-a6fe-10c3526f7eef@f9941": [
+            "CCRes/TexasGamePlay/TexasGameBg1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f6b726f7-7779-427c-a534-354cf0be839e": [
+            "CCRes/TexasGamePlay/Spine/youwin",
+            "cc.Asset",
+            1
+        ],
+        "edfb629e-ae6f-4e25-b05d-9c443f20eac6": [
+            "CCRes/TexasGamePlay/Spine/youwin",
+            "sp.SkeletonData",
+            1
+        ],
+        "6ac30dfb-1b6c-4a0f-a3ee-d61c25dd8733": [
+            "CCRes/TexasGamePlay/Spine/youwin",
+            "cc.ImageAsset",
+            1
+        ],
+        "6ac30dfb-1b6c-4a0f-a3ee-d61c25dd8733@6c48a": [
+            "CCRes/TexasGamePlay/Spine/youwin/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6ac30dfb-1b6c-4a0f-a3ee-d61c25dd8733@f9941": [
+            "CCRes/TexasGamePlay/Spine/youwin/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d1da294c-a9a8-46a8-a1c7-d65600aa33ea": [
+            "CCRes/TexasGamePlay/Spine/YouWIn",
+            "cc.Prefab",
+            1
+        ],
+        "9c665f25-a84f-4c6d-bdea-46279cec2a94": [
+            "CCRes/TexasGamePlay/Spine/Expression/alarmed",
+            "cc.Prefab",
+            1
+        ],
+        "fa3ddf86-2195-494c-9ba4-e3446c7df271": [
+            "CCRes/TexasGamePlay/Spine/Expression/alarmed_dc",
+            "cc.Asset",
+            1
+        ],
+        "1b5f8e31-daca-4fb4-8d3a-ae04e10f4847": [
+            "CCRes/TexasGamePlay/Spine/Expression/alarmed_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "297f3eda-b818-44a9-a35d-fa23fd61e0aa": [
+            "CCRes/TexasGamePlay/Spine/Expression/alarmed_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "297f3eda-b818-44a9-a35d-fa23fd61e0aa@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/alarmed_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "297f3eda-b818-44a9-a35d-fa23fd61e0aa@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/alarmed_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a662d3f9-0a7a-4a93-8e03-e13345e76a03": [
+            "CCRes/TexasGamePlay/Spine/Expression/anger",
+            "cc.Prefab",
+            1
+        ],
+        "b9f747dd-a34b-4349-8f4f-e56bab5a78de": [
+            "CCRes/TexasGamePlay/Spine/Expression/anger_dc",
+            "cc.Asset",
+            1
+        ],
+        "6f1e024f-974e-4e8b-a06e-33ad5c142f18": [
+            "CCRes/TexasGamePlay/Spine/Expression/anger_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "c93d7916-9ad2-4cc5-b51c-d0cfefff7dfd": [
+            "CCRes/TexasGamePlay/Spine/Expression/anger_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "c93d7916-9ad2-4cc5-b51c-d0cfefff7dfd@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/anger_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c93d7916-9ad2-4cc5-b51c-d0cfefff7dfd@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/anger_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "81879c3d-2fed-47c9-8c00-1014582ece9f": [
+            "CCRes/TexasGamePlay/Spine/Expression/blab",
+            "cc.Prefab",
+            1
+        ],
+        "fb408b3d-f405-4fe9-99bf-18c9ff4505ce": [
+            "CCRes/TexasGamePlay/Spine/Expression/blab_dc",
+            "cc.Asset",
+            1
+        ],
+        "aa48135e-c6c0-4e96-9ab4-9fc3ea43ee09": [
+            "CCRes/TexasGamePlay/Spine/Expression/blab_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "a22d224b-b03d-4582-a9f9-0bdbc005adc9": [
+            "CCRes/TexasGamePlay/Spine/Expression/blab_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "a22d224b-b03d-4582-a9f9-0bdbc005adc9@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/blab_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a22d224b-b03d-4582-a9f9-0bdbc005adc9@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/blab_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "53362c54-1766-456e-a598-57eecf0d1af7": [
+            "CCRes/TexasGamePlay/Spine/Expression/cry",
+            "cc.Prefab",
+            1
+        ],
+        "eac9df76-cab5-4c5e-b93c-317a69056e73": [
+            "CCRes/TexasGamePlay/Spine/Expression/cry_dc",
+            "cc.Asset",
+            1
+        ],
+        "f1245821-2f68-4196-a245-a95702987638": [
+            "CCRes/TexasGamePlay/Spine/Expression/cry_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "56625319-6134-472a-af17-9a4262f647b4": [
+            "CCRes/TexasGamePlay/Spine/Expression/cry_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "56625319-6134-472a-af17-9a4262f647b4@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/cry_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "56625319-6134-472a-af17-9a4262f647b4@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/cry_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "93a9f4fa-25dc-4632-a32b-64b4b7d3e6d2": [
+            "CCRes/TexasGamePlay/Spine/Expression/despise",
+            "cc.Prefab",
+            1
+        ],
+        "4dcb19be-d38b-47c9-bdaa-4c06b81e6956": [
+            "CCRes/TexasGamePlay/Spine/Expression/despise_dc",
+            "cc.Asset",
+            1
+        ],
+        "7fcd9c75-5e54-45de-8022-e45a2398aaef": [
+            "CCRes/TexasGamePlay/Spine/Expression/despise_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "1dab7ffa-96b4-4bfe-9121-647471ad8606": [
+            "CCRes/TexasGamePlay/Spine/Expression/despise_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "1dab7ffa-96b4-4bfe-9121-647471ad8606@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/despise_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1dab7ffa-96b4-4bfe-9121-647471ad8606@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/despise_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5668d01f-a275-4eca-91d3-7fab66de8d94": [
+            "CCRes/TexasGamePlay/Spine/Expression/fire",
+            "cc.Prefab",
+            1
+        ],
+        "ac98a55d-e5b5-4bb2-8287-97701740d05e": [
+            "CCRes/TexasGamePlay/Spine/Expression/fire_dc",
+            "cc.Asset",
+            1
+        ],
+        "472bebfa-f15a-40ea-b3d9-a24b9024dfcc": [
+            "CCRes/TexasGamePlay/Spine/Expression/fire_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "51cc22a3-a60c-4422-9ebf-ba1efab7e1d7": [
+            "CCRes/TexasGamePlay/Spine/Expression/fire_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "51cc22a3-a60c-4422-9ebf-ba1efab7e1d7@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/fire_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "51cc22a3-a60c-4422-9ebf-ba1efab7e1d7@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/fire_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "805f1705-3c29-42be-a324-a1011db22fa0": [
+            "CCRes/TexasGamePlay/Spine/Expression/heart-broken",
+            "cc.Prefab",
+            1
+        ],
+        "7ea4e1e8-c8ad-4a5f-9610-7afbb22b2298": [
+            "CCRes/TexasGamePlay/Spine/Expression/heart-broken_dc",
+            "cc.Asset",
+            1
+        ],
+        "759245f7-1671-48dc-a2a7-cfeacb7d1fdc": [
+            "CCRes/TexasGamePlay/Spine/Expression/heart-broken_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "82475e1f-7638-4a0d-ad00-e91fb9b18f68": [
+            "CCRes/TexasGamePlay/Spine/Expression/heart-broken_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "82475e1f-7638-4a0d-ad00-e91fb9b18f68@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/heart-broken_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "82475e1f-7638-4a0d-ad00-e91fb9b18f68@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/heart-broken_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f7dadbc4-8d30-467a-9df1-23e5c4af8726": [
+            "CCRes/TexasGamePlay/Spine/Expression/hurry",
+            "cc.Prefab",
+            1
+        ],
+        "f55954f2-8f45-4aa7-ad6f-11accb69f473": [
+            "CCRes/TexasGamePlay/Spine/Expression/hurry_dc",
+            "cc.Asset",
+            1
+        ],
+        "7e75cbd6-1296-41cf-8739-4381a40b61d4": [
+            "CCRes/TexasGamePlay/Spine/Expression/hurry_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "d0cf4aed-653a-4de2-b295-71629e2e45e7": [
+            "CCRes/TexasGamePlay/Spine/Expression/hurry_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "d0cf4aed-653a-4de2-b295-71629e2e45e7@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/hurry_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d0cf4aed-653a-4de2-b295-71629e2e45e7@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/hurry_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "41b195f1-1eea-44a6-b18c-a1be9b1ff5f6": [
+            "CCRes/TexasGamePlay/Spine/Expression/laugh",
+            "cc.Prefab",
+            1
+        ],
+        "e963d3d6-fe63-46c0-b4a3-18452ab0567a": [
+            "CCRes/TexasGamePlay/Spine/Expression/laugh_dc",
+            "cc.Asset",
+            1
+        ],
+        "840820cf-70d3-4ea7-970f-1903662778ce": [
+            "CCRes/TexasGamePlay/Spine/Expression/laugh_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "530593d4-a975-40ee-9a04-dc063aafb380": [
+            "CCRes/TexasGamePlay/Spine/Expression/laugh_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "530593d4-a975-40ee-9a04-dc063aafb380@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/laugh_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "530593d4-a975-40ee-9a04-dc063aafb380@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/laugh_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "43545776-d759-4ea9-9fc8-70ba059b793b": [
+            "CCRes/TexasGamePlay/Spine/Expression/provoke",
+            "cc.Prefab",
+            1
+        ],
+        "e985752c-5c3e-4d94-8673-2d709120abe8": [
+            "CCRes/TexasGamePlay/Spine/Expression/provoke_dc",
+            "cc.Asset",
+            1
+        ],
+        "333edd0e-2faf-4334-bddb-39f525689eb0": [
+            "CCRes/TexasGamePlay/Spine/Expression/provoke_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "47b18941-9ec4-4309-8bd6-00a149e24f65": [
+            "CCRes/TexasGamePlay/Spine/Expression/provoke_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "47b18941-9ec4-4309-8bd6-00a149e24f65@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/provoke_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "47b18941-9ec4-4309-8bd6-00a149e24f65@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/provoke_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "22633799-18c7-404e-9086-5fe7237aed76": [
+            "CCRes/TexasGamePlay/Spine/Expression/question",
+            "cc.Prefab",
+            1
+        ],
+        "fab9be7d-0f77-4a84-974f-b1d3cfcc099e": [
+            "CCRes/TexasGamePlay/Spine/Expression/question_dc",
+            "cc.Asset",
+            1
+        ],
+        "1a90a5e3-ef04-4818-9b60-2067871300b8": [
+            "CCRes/TexasGamePlay/Spine/Expression/question_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "5b37dbd7-8d66-4ed7-8d57-48bfaf857e82": [
+            "CCRes/TexasGamePlay/Spine/Expression/question_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "5b37dbd7-8d66-4ed7-8d57-48bfaf857e82@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/question_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "5b37dbd7-8d66-4ed7-8d57-48bfaf857e82@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/question_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "32b1fa31-f63d-42bb-8e1f-eb3c8e274caa": [
+            "CCRes/TexasGamePlay/Spine/Expression/sad",
+            "cc.Prefab",
+            1
+        ],
+        "36cd5747-b23c-4b4b-89cf-e77ba3222605": [
+            "CCRes/TexasGamePlay/Spine/Expression/sad_dc",
+            "cc.Asset",
+            1
+        ],
+        "0ddcd719-1c25-4323-8fe0-59c6c228b6b0": [
+            "CCRes/TexasGamePlay/Spine/Expression/sad_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "445edf9f-76e7-478c-b4bd-cd8bf56d1e4c": [
+            "CCRes/TexasGamePlay/Spine/Expression/sad_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "445edf9f-76e7-478c-b4bd-cd8bf56d1e4c@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/sad_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "445edf9f-76e7-478c-b4bd-cd8bf56d1e4c@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/sad_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0aa5f16b-8a5b-4208-bb70-0929e882102d": [
+            "CCRes/TexasGamePlay/Spine/Expression/self-evident",
+            "cc.Prefab",
+            1
+        ],
+        "1a5be95b-a1eb-4906-8507-14a1fb0f463c": [
+            "CCRes/TexasGamePlay/Spine/Expression/self-evident_dc",
+            "cc.Asset",
+            1
+        ],
+        "1a84b9b4-7326-4b0e-9a88-649da60a7c61": [
+            "CCRes/TexasGamePlay/Spine/Expression/self-evident_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "e75f7ef7-0143-4b62-977d-2ba274a925c4": [
+            "CCRes/TexasGamePlay/Spine/Expression/self-evident_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "e75f7ef7-0143-4b62-977d-2ba274a925c4@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/self-evident_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "e75f7ef7-0143-4b62-977d-2ba274a925c4@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/self-evident_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3e4bbb12-e6d8-4760-b220-3c96f75b462d": [
+            "CCRes/TexasGamePlay/Spine/Expression/sweating",
+            "cc.Prefab",
+            1
+        ],
+        "c2a13949-e04a-4fbe-ad2d-17235a4706a6": [
+            "CCRes/TexasGamePlay/Spine/Expression/sweating_dc",
+            "cc.Asset",
+            1
+        ],
+        "5c1675db-9aa0-4aa2-b6a4-fdca7435977b": [
+            "CCRes/TexasGamePlay/Spine/Expression/sweating_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "484df0b2-12b9-422a-a7f5-1eeff78ea36f": [
+            "CCRes/TexasGamePlay/Spine/Expression/sweating_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "484df0b2-12b9-422a-a7f5-1eeff78ea36f@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/sweating_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "484df0b2-12b9-422a-a7f5-1eeff78ea36f@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/sweating_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4bf1bbc0-b9da-4a1f-a34b-0075dff7611f": [
+            "CCRes/TexasGamePlay/Spine/Expression/wink",
+            "cc.Prefab",
+            1
+        ],
+        "c3bc0ae8-869a-4e80-bb2d-d1f108e26096": [
+            "CCRes/TexasGamePlay/Spine/Expression/wink_dc",
+            "cc.Asset",
+            1
+        ],
+        "569025ed-3434-432e-a5f8-da7518b5e8ec": [
+            "CCRes/TexasGamePlay/Spine/Expression/wink_dc",
+            "sp.SkeletonData",
+            1
+        ],
+        "d86f7f98-8138-459f-8ffb-5bb3780aa714": [
+            "CCRes/TexasGamePlay/Spine/Expression/wink_dc",
+            "cc.ImageAsset",
+            1
+        ],
+        "d86f7f98-8138-459f-8ffb-5bb3780aa714@6c48a": [
+            "CCRes/TexasGamePlay/Spine/Expression/wink_dc/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d86f7f98-8138-459f-8ffb-5bb3780aa714@f9941": [
+            "CCRes/TexasGamePlay/Spine/Expression/wink_dc/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0422470b3": [
+            "1dab7ffa-96b4-4bfe-9121-647471ad8606@6c48a",
+            "5b37dbd7-8d66-4ed7-8d57-48bfaf857e82@6c48a",
+            "6ac30dfb-1b6c-4a0f-a3ee-d61c25dd8733@6c48a",
+            "47b18941-9ec4-4309-8bd6-00a149e24f65@6c48a",
+            "51cc22a3-a60c-4422-9ebf-ba1efab7e1d7@6c48a",
+            "297f3eda-b818-44a9-a35d-fa23fd61e0aa@6c48a",
+            "353b5567-9310-42b5-896e-25789b0aa5de@6c48a",
+            "445edf9f-76e7-478c-b4bd-cd8bf56d1e4c@6c48a",
+            "484df0b2-12b9-422a-a7f5-1eeff78ea36f@6c48a",
+            "12268ae6-3328-4953-a6fe-10c3526f7eef@6c48a",
+            "82475e1f-7638-4a0d-ad00-e91fb9b18f68@6c48a",
+            "530593d4-a975-40ee-9a04-dc063aafb380@6c48a",
+            "6403663e-22ac-4994-b958-5922436343ac@6c48a",
+            "56625319-6134-472a-af17-9a4262f647b4@6c48a",
+            "a22d224b-b03d-4582-a9f9-0bdbc005adc9@6c48a",
+            "c93d7916-9ad2-4cc5-b51c-d0cfefff7dfd@6c48a",
+            "cda99ba9-670d-4d42-817e-4772ab07a8fc@6c48a",
+            "ce006795-d53e-4e42-b70a-e76abb7fe880@6c48a",
+            "d0cf4aed-653a-4de2-b295-71629e2e45e7@6c48a",
+            "d72becce-fccc-4061-953b-b36c6a70b10b@6c48a",
+            "d86f7f98-8138-459f-8ffb-5bb3780aa714@6c48a",
+            "e75f7ef7-0143-4b62-977d-2ba274a925c4@6c48a"
+        ],
+        "0236e4f69": [
+            "0aa5f16b-8a5b-4208-bb70-0929e882102d",
+            "1a84b9b4-7326-4b0e-9a88-649da60a7c61"
+        ],
+        "0cc537fa5": [
+            "1a90a5e3-ef04-4818-9b60-2067871300b8",
+            "22633799-18c7-404e-9086-5fe7237aed76"
+        ],
+        "0d0fd1420": [
+            "0ddcd719-1c25-4323-8fe0-59c6c228b6b0",
+            "32b1fa31-f63d-42bb-8e1f-eb3c8e274caa"
+        ],
+        "0809e2ece": [
+            "3e4bbb12-e6d8-4760-b220-3c96f75b462d",
+            "5c1675db-9aa0-4aa2-b6a4-fdca7435977b"
+        ],
+        "055f07350": [
+            "41b195f1-1eea-44a6-b18c-a1be9b1ff5f6",
+            "840820cf-70d3-4ea7-970f-1903662778ce"
+        ],
+        "0d12ed026": [
+            "333edd0e-2faf-4334-bddb-39f525689eb0",
+            "43545776-d759-4ea9-9fc8-70ba059b793b"
+        ],
+        "05894e8c0": [
+            "4bf1bbc0-b9da-4a1f-a34b-0075dff7611f",
+            "569025ed-3434-432e-a5f8-da7518b5e8ec"
+        ],
+        "02ee3a4d7": [
+            "53362c54-1766-456e-a598-57eecf0d1af7",
+            "f1245821-2f68-4196-a245-a95702987638"
+        ],
+        "0b8a1f3eb": [
+            "472bebfa-f15a-40ea-b3d9-a24b9024dfcc",
+            "5668d01f-a275-4eca-91d3-7fab66de8d94"
+        ],
+        "083dd4748": [
+            "759245f7-1671-48dc-a2a7-cfeacb7d1fdc",
+            "805f1705-3c29-42be-a324-a1011db22fa0"
+        ],
+        "01a5ed265": [
+            "81879c3d-2fed-47c9-8c00-1014582ece9f",
+            "aa48135e-c6c0-4e96-9ab4-9fc3ea43ee09"
+        ],
+        "03535403a": [
+            "7fcd9c75-5e54-45de-8022-e45a2398aaef",
+            "93a9f4fa-25dc-4632-a32b-64b4b7d3e6d2"
+        ],
+        "0ba9b0bbe": [
+            "1b5f8e31-daca-4fb4-8d3a-ae04e10f4847",
+            "9c665f25-a84f-4c6d-bdea-46279cec2a94"
+        ],
+        "024826b4a": [
+            "6f1e024f-974e-4e8b-a06e-33ad5c142f18",
+            "a662d3f9-0a7a-4a93-8e03-e13345e76a03"
+        ],
+        "08c876b41": [
+            "d1da294c-a9a8-46a8-a1c7-d65600aa33ea",
+            "edfb629e-ae6f-4e25-b05d-9c443f20eac6"
+        ],
+        "09a00e6c0": [
+            "7e75cbd6-1296-41cf-8739-4381a40b61d4",
+            "f7dadbc4-8d30-467a-9df1-23e5c4af8726"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

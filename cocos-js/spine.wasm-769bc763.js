@@ -155,14 +155,14 @@ System.register(['./virtual_cc-bf54316d.js'], (function (exports) {
               if (file == wasmBinaryFile && wasmBinary) {
                 return new Uint8Array(wasmBinary);
               }
-              if (readBinary);
+              if (readBinary) ;
               throw "both async and sync fetching of the wasm failed";
             } catch (err) {
               abort(err);
             }
           }
           function getBinaryPromise(binaryFile) {
-            if (!wasmBinary && (ENVIRONMENT_IS_WEB)) {
+            if (!wasmBinary && (ENVIRONMENT_IS_WEB )) {
               if (typeof fetch == "function") {
                 return fetch(binaryFile, {
                   credentials: "same-origin"
@@ -286,7 +286,7 @@ System.register(['./virtual_cc-bf54316d.js'], (function (exports) {
           }
           function ___syscall_openat(dirfd, path, flags, varargs) {
           }
-          function __embind_register_bigint(primitiveType, name, size, minRange, maxRange) { }
+          function __embind_register_bigint(primitiveType, name, size, minRange, maxRange) {}
           function getShiftFromSize(size) {
             switch (size) {
               case 1:
@@ -500,7 +500,7 @@ System.register(['./virtual_cc-bf54316d.js'], (function (exports) {
             throwBindingError(getInstanceTypeName(obj) + " instance already deleted");
           }
           var finalizationRegistry = false;
-          function detachFinalizer(handle) { }
+          function detachFinalizer(handle) {}
           function runDestructor($$) {
             if ($$.smartPtr) {
               $$.smartPtrType.rawDestructor($$.smartPtr);
@@ -739,7 +739,7 @@ System.register(['./virtual_cc-bf54316d.js'], (function (exports) {
             ClassHandle.prototype["isDeleted"] = ClassHandle_isDeleted;
             ClassHandle.prototype["deleteLater"] = ClassHandle_deleteLater;
           }
-          function ClassHandle() { }
+          function ClassHandle() {}
           function ensureOverloadTable(proto, methodName, humanName) {
             if (undefined === proto[methodName].overloadTable) {
               var prevFunc = proto[methodName];
@@ -1474,7 +1474,7 @@ System.register(['./virtual_cc-bf54316d.js'], (function (exports) {
           function __embind_register_enum(rawType, name, size, isSigned) {
             var shift = getShiftFromSize(size);
             name = readLatin1String(name);
-            function ctor() { }
+            function ctor() {}
             ctor.values = {};
             registerType(rawType, {
               name: name,
@@ -1507,7 +1507,7 @@ System.register(['./virtual_cc-bf54316d.js'], (function (exports) {
                 value: enumValue
               },
               constructor: {
-                value: createNamedFunction(enumType.name + "_" + name, function () { })
+                value: createNamedFunction(enumType.name + "_" + name, function () {})
               }
             });
             Enum.values[enumValue] = Value;
@@ -1591,7 +1591,7 @@ System.register(['./virtual_cc-bf54316d.js'], (function (exports) {
               };
             }
             var isUnsignedType = name.includes("unsigned");
-            var checkAssertions = function checkAssertions(value, toTypeName) { };
+            var checkAssertions = function checkAssertions(value, toTypeName) {};
             var toWireType;
             if (isUnsignedType) {
               toWireType = function toWireType(destructors, value) {
@@ -1952,7 +1952,7 @@ System.register(['./virtual_cc-bf54316d.js'], (function (exports) {
               wasmMemory.grow(pages);
               updateMemoryViews();
               return 1;
-            } catch (e) { }
+            } catch (e) {}
           }
           function _emscripten_resize_heap(requestedSize) {
             var oldSize = HEAPU8.length;

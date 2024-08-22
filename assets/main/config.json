@@ -1,1 +1,62 @@
-{"importBase":"import","nativeBase":"native","name":"main","deps":["resources"],"uuids":["0b26cacf7","26t1JRXGdLap+zIrQ/bXDc","3aP3YQnC1LgbTZ/fOpDM6U","67tFBcGtpI360p2WjFY+q4","67tFBcGtpI360p2WjFY+q4@6c48a","8eG0nSdk1DTqNYGP9H6TS6","67tFBcGtpI360p2WjFY+q4@f9941","b2+IhSuDFNZIQl0rFbDyW7","baIUdvKGZPgZxNbjWTFuRI","fdjsU2o1RKF5x0TziDw3jI"],"paths":{"5":["db:/assets/GameScene",0,1],"8":["db:/internal/physics/default-physics-material",2,1],"9":["db:/internal/default_renderpipeline/builtin-forward",1,1]},"scenes":{"db://assets/GameScene.scene":5},"packs":{"0b26cacf7":[6,5]},"versions":{"import":[],"native":[]},"redirect":[1,"0",2,"0",7,"0"],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.SceneAsset","cc.RenderPipeline","cc.PhysicsMaterial"]}
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "main",
+    "deps": [
+        "resources"
+    ],
+    "uuids": [
+        "0b26cacf7",
+        "26b75251-5c67-4b6a-9fb3-22b43f6d70dc",
+        "3a3f7610-9c2d-4b81-b4d9-fdf3a90cce94",
+        "67b4505c-1ada-48df-ad29-d968c563eab8",
+        "67b4505c-1ada-48df-ad29-d968c563eab8@6c48a",
+        "67b4505c-1ada-48df-ad29-d968c563eab8@f9941",
+        "8e1b49d2-764d-434e-a358-18ff47e934ba",
+        "b2f88852-b831-4d64-8425-d2b15b0f25bb",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8"
+    ],
+    "paths": {
+        "8e1b49d2-764d-434e-a358-18ff47e934ba": [
+            "db:/assets/GameScene",
+            "cc.SceneAsset",
+            1
+        ],
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8": [
+            "db:/internal/default_renderpipeline/builtin-forward",
+            "cc.RenderPipeline",
+            1
+        ],
+        "ba21476f-2866-4f81-9c4d-6e359316e448": [
+            "db:/internal/physics/default-physics-material",
+            "cc.PhysicsMaterial",
+            1
+        ]
+    },
+    "scenes": {
+        "db://assets/GameScene.scene": "8e1b49d2-764d-434e-a358-18ff47e934ba"
+    },
+    "packs": {
+        "0b26cacf7": [
+            "67b4505c-1ada-48df-ad29-d968c563eab8@f9941",
+            "8e1b49d2-764d-434e-a358-18ff47e934ba"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [
+        "26b75251-5c67-4b6a-9fb3-22b43f6d70dc",
+        "0",
+        "3a3f7610-9c2d-4b81-b4d9-fdf3a90cce94",
+        "0",
+        "b2f88852-b831-4d64-8425-d2b15b0f25bb",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
