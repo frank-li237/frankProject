@@ -5028,6 +5028,71 @@ System.register("chunks:///_virtual/index8.js", ['./cjs-loader.mjs'], function (
     execute: function () {
       var __cjsMetaURL = exports('__cjsMetaURL', module.meta.url);
       loader.define(__cjsMetaURL, function (exports, require, module, __filename, __dirname) {
+        module.exports = pool;
+
+        /**
+         * An allocator as used by {@link util.pool}.
+         * @typedef PoolAllocator
+         * @type {function}
+         * @param {number} size Buffer size
+         * @returns {Uint8Array} Buffer
+         */
+
+        /**
+         * A slicer as used by {@link util.pool}.
+         * @typedef PoolSlicer
+         * @type {function}
+         * @param {number} start Start offset
+         * @param {number} end End offset
+         * @returns {Uint8Array} Buffer slice
+         * @this {Uint8Array}
+         */
+
+        /**
+         * A general purpose buffer pool.
+         * @memberof util
+         * @function
+         * @param {PoolAllocator} alloc Allocator
+         * @param {PoolSlicer} slice Slicer
+         * @param {number} [size=8192] Slab size
+         * @returns {PoolAllocator} Pooled allocator
+         */
+        function pool(alloc, slice, size) {
+          var SIZE = size || 8192;
+          var MAX = SIZE >>> 1;
+          var slab = null;
+          var offset = SIZE;
+          return function pool_alloc(size) {
+            if (size < 1 || size > MAX) return alloc(size);
+            if (offset + size > SIZE) {
+              slab = alloc(SIZE);
+              offset = 0;
+            }
+            var buf = slice.call(slab, offset, offset += size);
+            if (offset & 7)
+              // align to 32 bit
+              offset = (offset | 7) + 1;
+            return buf;
+          };
+        }
+
+        // #endregion ORIGINAL CODE
+
+        module.exports;
+      }, {});
+    }
+  };
+});
+
+System.register("chunks:///_virtual/index9.js", ['./cjs-loader.mjs'], function (exports, module) {
+  var loader;
+  return {
+    setters: [function (module) {
+      loader = module.default;
+    }],
+    execute: function () {
+      var __cjsMetaURL = exports('__cjsMetaURL', module.meta.url);
+      loader.define(__cjsMetaURL, function (exports, require, module, __filename, __dirname) {
         module.exports = factory(factory);
 
         /**
@@ -5327,71 +5392,6 @@ System.register("chunks:///_virtual/index8.js", ['./cjs-loader.mjs'], function (
         module.exports.writeDoubleBE;
         module.exports.readDoubleLE;
         module.exports.readDoubleBE;
-      }, {});
-    }
-  };
-});
-
-System.register("chunks:///_virtual/index9.js", ['./cjs-loader.mjs'], function (exports, module) {
-  var loader;
-  return {
-    setters: [function (module) {
-      loader = module.default;
-    }],
-    execute: function () {
-      var __cjsMetaURL = exports('__cjsMetaURL', module.meta.url);
-      loader.define(__cjsMetaURL, function (exports, require, module, __filename, __dirname) {
-        module.exports = pool;
-
-        /**
-         * An allocator as used by {@link util.pool}.
-         * @typedef PoolAllocator
-         * @type {function}
-         * @param {number} size Buffer size
-         * @returns {Uint8Array} Buffer
-         */
-
-        /**
-         * A slicer as used by {@link util.pool}.
-         * @typedef PoolSlicer
-         * @type {function}
-         * @param {number} start Start offset
-         * @param {number} end End offset
-         * @returns {Uint8Array} Buffer slice
-         * @this {Uint8Array}
-         */
-
-        /**
-         * A general purpose buffer pool.
-         * @memberof util
-         * @function
-         * @param {PoolAllocator} alloc Allocator
-         * @param {PoolSlicer} slice Slicer
-         * @param {number} [size=8192] Slab size
-         * @returns {PoolAllocator} Pooled allocator
-         */
-        function pool(alloc, slice, size) {
-          var SIZE = size || 8192;
-          var MAX = SIZE >>> 1;
-          var slab = null;
-          var offset = SIZE;
-          return function pool_alloc(size) {
-            if (size < 1 || size > MAX) return alloc(size);
-            if (offset + size > SIZE) {
-              slab = alloc(SIZE);
-              offset = 0;
-            }
-            var buf = slice.call(slab, offset, offset += size);
-            if (offset & 7)
-              // align to 32 bit
-              offset = (offset | 7) + 1;
-            return buf;
-          };
-        }
-
-        // #endregion ORIGINAL CODE
-
-        module.exports;
       }, {});
     }
   };
@@ -5843,7 +5843,7 @@ System.register("chunks:///_virtual/minimal.js", ['./cjs-loader.mjs', './index-m
   };
 });
 
-System.register("chunks:///_virtual/minimal2.js", ['./cjs-loader.mjs', './index3.js', './index7.js', './index4.js', './index8.js', './index5.js', './index6.js', './index9.js', './longbits.js'], function (exports, module) {
+System.register("chunks:///_virtual/minimal2.js", ['./cjs-loader.mjs', './index3.js', './index7.js', './index4.js', './index9.js', './index5.js', './index6.js', './index8.js', './longbits.js'], function (exports, module) {
   var loader, __cjsMetaURL$1, __cjsMetaURL$2, __cjsMetaURL$3, __cjsMetaURL$4, __cjsMetaURL$5, __cjsMetaURL$6, __cjsMetaURL$7, __cjsMetaURL$8;
   return {
     setters: [function (module) {
