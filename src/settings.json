@@ -69,7 +69,7 @@
             "height": 1920,
             "policy": 4
         },
-        "orientation": "auto"
+        "orientation": "portrait"
     },
     "rendering": {
         "renderPipeline": ""
@@ -110,6 +110,7 @@
     "CustomSettings": {
         "tgMiniApp": true,
         "defaultConfig": "Test",
-        "channel": "1000"
+        "channel": "1000",
+        "version": "1.0.20240902103203"
     }
 }
