@@ -1,0 +1,132 @@
+
+heart-broken_dc.png
+size: 230,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao1
+  rotate: true
+  xy: 179, 38
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 160, 56
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+mei1
+  rotate: false
+  xy: 200, 68
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+mei2
+  rotate: true
+  xy: 200, 46
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+qipaokuang
+  rotate: true
+  xy: 160, 117
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 33
+  size: 170, 156
+  orig: 170, 156
+  offset: 0, 0
+  index: -1
+xin1
+  rotate: true
+  xy: 183, 84
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+xin2
+  rotate: true
+  xy: 2, 2
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+yancao1
+  rotate: false
+  xy: 183, 14
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+yancao2
+  rotate: false
+  xy: 180, 60
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+yankuang1
+  rotate: true
+  xy: 160, 80
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+yankuang2
+  rotate: false
+  xy: 142, 12
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+yanlei1
+  rotate: true
+  xy: 40, 15
+  size: 16, 49
+  orig: 16, 49
+  offset: 0, 0
+  index: -1
+yanlei2
+  rotate: true
+  xy: 91, 15
+  size: 16, 49
+  orig: 16, 49
+  offset: 0, 0
+  index: -1
+yanzhu1
+  rotate: true
+  xy: 50, 3
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+yanzhu2
+  rotate: true
+  xy: 40, 2
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 160, 35
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+zuishang1
+  rotate: false
+  xy: 59, 3
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1

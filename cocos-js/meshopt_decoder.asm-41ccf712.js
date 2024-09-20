@@ -1,1 +1,1269 @@
-System.register([],(function(e){"use strict";return{execute:function(){var r,t=(function(e){var r=function(){var e={},r=Promise.resolve().then((function(){e.exports=function(e){for(var r,t=new Uint8Array(123),n=25;n>=0;--n)t[48+n]=52+n,t[65+n]=n,t[97+n]=26+n;function o(){!function(e,r,n){for(var o,f,a=0,i=r,s=n.length,c=r+(3*s>>2)-("="==n[s-2])-("="==n[s-1]);a<s;a+=4)o=t[n.charCodeAt(a+1)],f=t[n.charCodeAt(a+2)],e[i++]=t[n.charCodeAt(a)]<<2|o>>4,i<c&&(e[i++]=o<<4|f>>2),i<c&&(e[i++]=f<<6|t[n.charCodeAt(a+3)])}(r,1024,"EGQAAA==")}return t[43]=62,t[47]=63,function(e){var t=new ArrayBuffer(65536),n=new Int8Array(t),f=new Int16Array(t),a=new Int32Array(t),i=new Uint8Array(t),s=Math.imul;e.abort;var c=25616;function u(e,r,t){t|=0;var o=0;if(3&((r|=0)|(e|=0)|0)|0)o=e;else{if(t>>>0>=16)for(o=e;a[o>>2]=0|a[r>>2],a[(o+4|0)>>2]=0|a[(r+4|0)>>2],a[(o+8|0)>>2]=0|a[(r+8|0)>>2],a[(o+12|0)>>2]=0|a[(r+12|0)>>2],r=r+16|0,o=o+16|0,(t=t+-16|0)>>>0>15;);else o=e;if(!(t>>>0<4))for(;a[o>>2]=0|a[r>>2],r=r+4|0,o=o+4|0,(t=t+-4|0)>>>0>3;);}if(t)for(;n[o>>0]=0|i[r>>0],o=o+1|0,r=r+1|0,t=t+-1|0;);return 0|e}function d(){return t.byteLength/65536|0}function b(e){e|=0;var o=0|d(),c=o+e|0;if(o<c&&c<65536){var u=new ArrayBuffer(s(c,65536));new Int8Array(u).set(n),n=new Int8Array(u),f=new Int16Array(u),a=new Int32Array(u),i=new Uint8Array(u),t=u,r=i}return o}return r=i,o(),{memory:Object.create(Object.prototype,{grow:{value:b},buffer:{get:function(){return t}}}),__wasm_call_ctors:function(){},meshopt_decodeVertexBuffer:function(e,r,t,o,f){e|=0,r|=0,o|=0;var d,b=0,l=0,p=0,k=0,v=0,A=0,h=0,w=0,x=0,m=0,y=0,_=0,g=0,I=0,U=0,B=0,E=0,j=0,O=0,S=0,L=0,N=0,R=0,q=0,C=0,T=0,M=0,G=0,P=0,V=0,z=0,F=0,Q=0,W=0,D=0,H=0,X=0,J=0,K=0,Y=0,Z=0,$=0,ee=0,re=0,te=0,ne=0,oe=0,fe=0,ae=0,ie=0,se=0,ce=0,ue=0,de=0,be=0,le=0,pe=0,ke=0;c=d=c-8704|0,k=-2;e:if(!((1+(t|=0)|0)>>>0>(f|=0)>>>0)&&(k=-1,160==(0|i[o>>0]))){A=0|u(0|d,0|(g=o+f|0)-t,0|t),f=8192/(t>>>0)|0,k=o+1|0;r:if(t){L=(f=16368&f|0)>>>0<256?f:256,B=0;t:for(;;){if(B>>>0>=r>>>0)break r;I=(3+((f=(y=(B+L|0)>>>0<r>>>0?L:r-B|0)+15|0)>>>4|0)|0)>>>2|0;n:{o:{f:{if(m=-16&f|0){E=0,U=1,S=A+256|0,x=k;a:for(;;){if((g-x|0)>>>0<I>>>0)break o;if(!((g-(k=x+I|0)|0)>>>0<24)){f=16,h=0;i:for(;;){o=f,f=(l=f+-16|0)+(A+8448|0)|0;s:{switch(0|3&((0|i[(x+(l>>>6|0)|0)>>0])>>>(6&h|0)|0)){default:v=f,w=0,a[f>>2]=0,a[(f+4|0)>>2]=w,w=0,a[(v=f+8|0)>>2]=0,a[(v+4|0)>>2]=w;break s;case 1:N=b=(l=0|i[k>>0])>>>6|0,b=3==(0|b),n[f>>0]=(pe=0|i[(k+4|0)>>0],ke=N,b?pe:ke),b=(k+4|0)+b|0,R=p=3&(l>>>4|0)|0,p=3==(0|p),n[((f=(A+8448|0)+o|0)-15|0)>>0]=(pe=0|i[b>>0],ke=R,p?pe:ke),b=b+p|0,q=p=3&(l>>>2|0)|0,p=3==(0|p),n[(f+-14|0)>>0]=(pe=0|i[b>>0],ke=q,p?pe:ke),b=b+p|0,C=l=3&l|0,l=3==(0|l),n[(f+-13|0)>>0]=(pe=0|i[b>>0],ke=C,l?pe:ke),b=b+l|0,T=p=(l=0|i[(k+1|0)>>0])>>>6|0,p=3==(0|p),n[(f+-12|0)>>0]=(pe=0|i[b>>0],ke=T,p?pe:ke),b=b+p|0,M=p=3&(l>>>4|0)|0,p=3==(0|p),n[(f+-11|0)>>0]=(pe=0|i[b>>0],ke=M,p?pe:ke),b=b+p|0,G=p=3&(l>>>2|0)|0,p=3==(0|p),n[(f+-10|0)>>0]=(pe=0|i[b>>0],ke=G,p?pe:ke),b=b+p|0,P=l=3&l|0,l=3==(0|l),n[(f+-9|0)>>0]=(pe=0|i[b>>0],ke=P,l?pe:ke),b=b+l|0,V=p=(l=0|i[(k+2|0)>>0])>>>6|0,p=3==(0|p),n[(f+-8|0)>>0]=(pe=0|i[b>>0],ke=V,p?pe:ke),b=b+p|0,z=p=3&(l>>>4|0)|0,p=3==(0|p),n[(f+-7|0)>>0]=(pe=0|i[b>>0],ke=z,p?pe:ke),b=b+p|0,F=p=3&(l>>>2|0)|0,p=3==(0|p),n[(f+-6|0)>>0]=(pe=0|i[b>>0],ke=F,p?pe:ke),b=b+p|0,Q=l=3&l|0,l=3==(0|l),n[(f+-5|0)>>0]=(pe=0|i[b>>0],ke=Q,l?pe:ke),l=b+l|0,W=b=(k=0|i[(k+3|0)>>0])>>>6|0,b=3==(0|b),n[(f+-4|0)>>0]=(pe=0|i[l>>0],ke=W,b?pe:ke),l=l+b|0,D=b=3&(k>>>4|0)|0,b=3==(0|b),n[(f+-3|0)>>0]=(pe=0|i[l>>0],ke=D,b?pe:ke),l=l+b|0,H=b=3&(k>>>2|0)|0,b=3==(0|b),n[(f+-2|0)>>0]=(pe=0|i[l>>0],ke=H,b?pe:ke),X=f+-1|0,f=l+b|0,J=k=3&k|0,k=3==(0|k),n[X>>0]=(pe=0|i[f>>0],ke=J,k?pe:ke),k=f+k|0;break s;case 2:K=b=(l=0|i[k>>0])>>>4|0,b=15==(0|b),n[f>>0]=(pe=0|i[(k+8|0)>>0],ke=K,b?pe:ke),b=(k+8|0)+b|0,Y=l=15&l|0,l=15==(0|l),n[((f=(A+8448|0)+o|0)-15|0)>>0]=(pe=0|i[b>>0],ke=Y,l?pe:ke),l=b+l|0,Z=p=(b=0|i[(k+1|0)>>0])>>>4|0,p=15==(0|p),n[(f+-14|0)>>0]=(pe=0|i[l>>0],ke=Z,p?pe:ke),l=l+p|0,$=b=15&b|0,b=15==(0|b),n[(f+-13|0)>>0]=(pe=0|i[l>>0],ke=$,b?pe:ke),l=l+b|0,ee=p=(b=0|i[(k+2|0)>>0])>>>4|0,p=15==(0|p),n[(f+-12|0)>>0]=(pe=0|i[l>>0],ke=ee,p?pe:ke),l=l+p|0,re=b=15&b|0,b=15==(0|b),n[(f+-11|0)>>0]=(pe=0|i[l>>0],ke=re,b?pe:ke),l=l+b|0,te=p=(b=0|i[(k+3|0)>>0])>>>4|0,p=15==(0|p),n[(f+-10|0)>>0]=(pe=0|i[l>>0],ke=te,p?pe:ke),l=l+p|0,ne=b=15&b|0,b=15==(0|b),n[(f+-9|0)>>0]=(pe=0|i[l>>0],ke=ne,b?pe:ke),l=l+b|0,oe=p=(b=0|i[(k+4|0)>>0])>>>4|0,p=15==(0|p),n[(f+-8|0)>>0]=(pe=0|i[l>>0],ke=oe,p?pe:ke),l=l+p|0,fe=b=15&b|0,b=15==(0|b),n[(f+-7|0)>>0]=(pe=0|i[l>>0],ke=fe,b?pe:ke),l=l+b|0,ae=p=(b=0|i[(k+5|0)>>0])>>>4|0,p=15==(0|p),n[(f+-6|0)>>0]=(pe=0|i[l>>0],ke=ae,p?pe:ke),l=l+p|0,ie=b=15&b|0,b=15==(0|b),n[(f+-5|0)>>0]=(pe=0|i[l>>0],ke=ie,b?pe:ke),l=l+b|0,se=p=(b=0|i[(k+6|0)>>0])>>>4|0,p=15==(0|p),n[(f+-4|0)>>0]=(pe=0|i[l>>0],ke=se,p?pe:ke),l=l+p|0,ce=b=15&b|0,b=15==(0|b),n[(f+-3|0)>>0]=(pe=0|i[l>>0],ke=ce,b?pe:ke),l=l+b|0,ue=b=(k=0|i[(k+7|0)>>0])>>>4|0,b=15==(0|b),n[(f+-2|0)>>0]=(pe=0|i[l>>0],ke=ue,b?pe:ke),de=f+-1|0,f=l+b|0,be=k=15&k|0,k=15==(0|k),n[de>>0]=(pe=0|i[f>>0],ke=be,k?pe:ke),k=f+k|0;break s;case 3:}w=0|i[k>>0]|(0|i[(k+1|0)>>0])<<8|0|(0|i[(k+2|0)>>0])<<16|0|(0|i[(k+3|0)>>0])<<24|0,v=0|i[(k+4|0)>>0]|(0|i[(k+5|0)>>0])<<8|0|(0|i[(k+6|0)>>0])<<16|0|(0|i[(k+7|0)>>0])<<24|0,le=w,w=f,j=le,n[f>>0]=j,n[(f+1|0)>>0]=j>>>8|0,n[(f+2|0)>>0]=j>>>16|0,n[(f+3|0)>>0]=j>>>24|0,n[(f+4|0)>>0]=v,n[(f+5|0)>>0]=v>>>8|0,n[(f+6|0)>>0]=v>>>16|0,n[(f+7|0)>>0]=v>>>24|0,v=0|i[(_=k+8|0)>>0]|(0|i[(_+1|0)>>0])<<8|0|(0|i[(_+2|0)>>0])<<16|0|(0|i[(_+3|0)>>0])<<24|0,w=0|i[(_+4|0)>>0]|(0|i[(_+5|0)>>0])<<8|0|(0|i[(_+6|0)>>0])<<16|0|(0|i[(_+7|0)>>0])<<24|0,O=v,n[(v=f+8|0)>>0]=O,n[(v+1|0)>>0]=O>>>8|0,n[(v+2|0)>>0]=O>>>16|0,n[(v+3|0)>>0]=O>>>24|0,n[(v+4|0)>>0]=w,n[(v+5|0)>>0]=w>>>8|0,n[(v+6|0)>>0]=w>>>16|0,n[(v+7|0)>>0]=w>>>24|0,k=k+16|0}if(o>>>0>=m>>>0||(h=h+2|0,f=o+16|0,!((g-k|0)>>>0>23)))break i}if(o>>>0<m>>>0)break f;if(!k)break f;if(y)for(h=0|i[(A+E|0)>>0],f=A+8448|0,o=S,l=y;h=(((x=0|i[f>>0])>>>1|0)^(0-(1&x|0)|0)|0)+h|0,n[o>>0]=h,o=o+t|0,f=f+1|0,l=l+-1|0;);if(S=S+1|0,U=(E=E+1|0)>>>0<t>>>0,x=k,(0|E)!=(0|t))continue a;break n}break a}if(k=0,1&U|0)break o;break n}if(p=k+s(I,t)|0,y){m=0,U=1,b=A+256|0;a:for(;;){if((g-k|0)>>>0<I>>>0)break o;if(!k)break f;for(k=k+I|0,h=0|i[(A+m|0)>>0],f=A+8448|0,o=b,l=y;h=(((x=0|i[f>>0])>>>1|0)^(0-(1&x|0)|0)|0)+h|0,n[o>>0]=h,o=o+t|0,f=f+1|0,l=l+-1|0;);if(b=b+1|0,U=(m=m+1|0)>>>0<t>>>0,(0|m)==(0|t))break a}k=p;break n}f=0,U=1;a:for(;;){if((g-k|0)>>>0<I>>>0)break o;if(!k)break f;if(k=k+I|0,U=(f=f+1|0)>>>0<t>>>0,(0|t)==(0|f))break a}k=p;break n}if(k=0,!(1&U|0))break n}k=-2;break e}if(u(0|e+s(B,t),0|A+256,0|s(y,t)),u(0|A,0|(A+256|0)+s(y+-1|0,t),0|t),B=y+B|0,!k)break t}k=-2;break e}k=(0|g-k)==(0|(t>>>0>32?t:32))?0:-3}return c=d+8704|0,0|k},meshopt_decodeIndexBuffer:function(e,r,t,o,u){e|=0,t|=0,o|=0;var d,b=0,l=0,p=0,k=0,v=0,A=0,h=0,w=0,x=0,m=0,y=0,_=0,g=0,I=0,U=0,B=0,E=0,j=0,O=0,S=0;c=d=c-192|0,k=-2;e:if(!((17+(y=((r|=0)>>>0)/3|0)|0)>>>0>(u|=0)>>>0||(k=-1,224!=(0|240&(I=0|i[o>>0]))||(b=15&I|0)>>>0>1))){if(function(e,r,t){r|=0,t|=0;var o=0,f=0;if(3&(e|=0)|0)o=e;else{if(f=s(255&r|0,16843009),t>>>0>=16)for(o=e;a[o>>2]=f,a[(o+12|0)>>2]=f,a[(o+8|0)>>2]=f,a[(o+4|0)>>2]=f,o=o+16|0,(t=t+-16|0)>>>0>15;);else o=e;if(!(t>>>0<4))for(;a[o>>2]=f,o=o+4|0,(t=t+-4|0)>>>0>3;);}if(t)for(;n[o>>0]=r,o=o+1|0,t=t+-1|0;);}(0|d+64,255,128),m=-1,a[(w=d+56|0)>>2]=-1,a[(w+4|0)>>2]=m,m=-1,a[(w=d+48|0)>>2]=-1,a[(w+4|0)>>2]=m,m=-1,a[(w=d+40|0)>>2]=-1,a[(w+4|0)>>2]=m,m=-1,a[(w=d+32|0)>>2]=-1,a[(w+4|0)>>2]=m,m=-1,a[(w=d+24|0)>>2]=-1,a[(w+4|0)>>2]=m,m=-1,a[(w=d+16|0)>>2]=-1,a[(w+4|0)>>2]=m,w=d,m=-1,a[(d+8|0)>>2]=-1,a[(d+12|0)>>2]=m,w=d,m=-1,a[d>>2]=-1,a[(d+4|0)>>2]=m,B=(o+u|0)-16|0,k=(I=o+1|0)+y|0,r){j=1==(0|b)?13:15,_=0,x=0,y=0,o=0,u=0;r:for(;;){if(!(k>>>0<=B>>>0)){k=-2;break e}t:if((b=0|i[I>>0])>>>0>239)if(b>>>0>253){if(h=(g=(v=0|i[k>>0])?_:0)+(b=254==(0|b))|0,U=15&v|0,E=v>>>4|0,v>>>0>15?(A=h,h=0|a[(d+((15&(o-E|0)|0)<<2|0)|0)>>2]):A=h+1|0,U?(_=A,A=0|a[(d+((15&(o-v|0)|0)<<2|0)|0)>>2]):_=A+1|0,b)b=k+1|0;else{b=k+2|0,l=255&(p=0|n[(k+1|0)>>0])|0;n:if(!((0|p)>-1)){g=k+6|0,l=127&l|0,k=7;o:{f:for(;;){if(l=(127&(p=0|n[b>>0])|0)<<k|0|l|0,(0|p)>-1)break o;if(b=b+1|0,35==(0|(k=k+7|0)))break f}b=g;break n}b=b+1|0}g=x=((l>>>1|0)^(0-(1&l|0)|0)|0)+x|0}if(15==(0|E)){l=b+1|0,p=255&(k=0|n[b>>0])|0;n:if(!((0|k)>-1)){h=b+5|0,p=127&p|0,k=7;o:{f:for(;;){if(p=(127&(b=0|n[l>>0])|0)<<k|0|p|0,(0|b)>-1)break o;if(l=l+1|0,35==(0|(k=k+7|0)))break f}l=h;break n}l=l+1|0}h=x=((p>>>1|0)^(0-(1&p|0)|0)|0)+x|0}else l=b;if(15==(0|U)){k=l+1|0,p=255&(b=0|n[l>>0])|0;n:if(!((0|b)>-1)){A=l+5|0,p=127&p|0,b=7;o:{f:for(;;){if(p=(127&(l=0|n[k>>0])|0)<<b|0|p|0,(0|l)>-1)break o;if(k=k+1|0,35==(0|(b=b+7|0)))break f}k=A;break n}k=k+1|0}A=x=((p>>>1|0)^(0-(1&p|0)|0)|0)+x|0}else k=l;2!=(0|t)?(a[(b=e+(y<<2|0)|0)>>2]=g,a[(b+4|0)>>2]=h,a[(b+8|0)>>2]=A):(f[(b=e+(y<<1|0)|0)>>1]=g,f[(b+2|0)>>1]=h,f[(b+4|0)>>1]=A),a[(b=(d+64|0)+(u<<3|0)|0)>>2]=h,a[(b+4|0)>>2]=g,a[(d+(o<<2|0)|0)>>2]=g,a[(b=(d+64|0)+((15&(u+1|0)|0)<<3|0)|0)>>2]=A,a[(b+4|0)>>2]=h,a[(d+((15&(o=o+1|0)|0)<<2|0)|0)>>2]=h,a[(b=(d+64|0)+((15&(u+2|0)|0)<<3|0)|0)>>2]=g,a[(b+4|0)>>2]=A,a[(d+((15&(o=o+(v>>>0<16|15==(0|E)|0)|0)|0)<<2|0)|0)>>2]=A,o=o+(!U|15==(0|U)|0)|0,u=u+3|0}else A=_+1|0,p=(l=0|i[(B+(15&b|0)|0)>>0])>>>0<16,O=A,S=0|a[(d+((15&(o-(l>>>4|0)|0)|0)<<2|0)|0)>>2],b=p?O:S,h=A+p|0,A=15&l|0,O=0|a[(d+((15&(o-l|0)|0)<<2|0)|0)>>2],S=h,l=A?O:S,A=!A,2!=(0|t)?(a[(v=e+(y<<2|0)|0)>>2]=_,a[(v+4|0)>>2]=b,a[(v+8|0)>>2]=l):(f[(v=e+(y<<1|0)|0)>>1]=_,f[(v+2|0)>>1]=b,f[(v+4|0)>>1]=l),a[(d+(o<<2|0)|0)>>2]=_,a[(v=(d+64|0)+(u<<3|0)|0)>>2]=b,a[(v+4|0)>>2]=_,a[(d+((15&(o=o+1|0)|0)<<2|0)|0)>>2]=b,a[(v=(d+64|0)+((15&(u+1|0)|0)<<3|0)|0)>>2]=l,a[(v+4|0)>>2]=b,a[(d+((o=15&(o+p|0)|0)<<2|0)|0)>>2]=l,a[(b=(d+64|0)+((u=15&(u+2|0)|0)<<3|0)|0)>>2]=_,a[(b+4|0)>>2]=l,u=u+1|0,o=o+A|0,_=h+A|0;else{if(h=0|a[(4+(l=(d+64|0)+((15&(u+((p=-1^b|0)>>>4|0)|0)|0)<<3|0)|0)|0)>>2],v=0|a[l>>2],!((b=15&b|0)>>>0>=j>>>0)){O=0|a[(d+((15&(o+p|0)|0)<<2|0)|0)>>2],S=_,l=b?O:S,b=!b,2!=(0|t)?(a[(p=e+(y<<2|0)|0)>>2]=v,a[(p+4|0)>>2]=h,a[(p+8|0)>>2]=l):(f[(p=e+(y<<1|0)|0)>>1]=v,f[(p+2|0)>>1]=h,f[(p+4|0)>>1]=l),_=_+b|0,a[(p=(d+64|0)+(u<<3|0)|0)>>2]=l,a[(p+4|0)>>2]=h,a[(d+(o<<2|0)|0)>>2]=l,a[(p=(d+64|0)+((u=15&(u+1|0)|0)<<3|0)|0)>>2]=v,a[(p+4|0)>>2]=l,o=o+b|0,u=u+1|0;break t}if(15==(0|b)){b=k+1|0,p=255&(l=0|n[k>>0])|0;n:if((0|l)<=-1){for(k=k+5|0,p=127&p|0,l=7;p=(127&(A=0|n[b>>0])|0)<<l|0|p|0,!((0|A)>-1);)if(b=b+1|0,35==(0|(l=l+7|0)))break n;k=b+1|0}else k=b;x=((p>>>1|0)^(0-(1&p|0)|0)|0)+x|0}else x=1+((x+b|0)+(-4^b|0)|0)|0;2!=(0|t)?(a[(b=e+(y<<2|0)|0)>>2]=v,a[(b+4|0)>>2]=h,a[(b+8|0)>>2]=x):(f[(b=e+(y<<1|0)|0)>>1]=v,f[(b+2|0)>>1]=h,f[(b+4|0)>>1]=x),a[(b=(d+64|0)+(u<<3|0)|0)>>2]=x,a[(b+4|0)>>2]=h,a[(d+(o<<2|0)|0)>>2]=x,a[(b=(d+64|0)+((u=15&(u+1|0)|0)<<3|0)|0)>>2]=v,a[(b+4|0)>>2]=x,o=o+1|0,u=u+1|0}if(I=I+1|0,u=15&u|0,o=15&o|0,!((y=y+3|0)>>>0<r>>>0))break r}}k=(0|k)==(0|B)?0:-3}return c=d+192|0,0|k},sbrk:function(e){e|=0;var r,t,n=0;return e=(r=0|a[256])+(-4&(e+3|0)|0)|0,a[256]=e,(e>>>0<=(t=d()<<16|0)>>>0||(n=-1,-1!=(0|b(0|(65535+(e-t|0)|0)>>>16))))&&(n=r),0|n}}}(e)}({abort:function(e,r,t,n){throw Error("abort: "+e+" at "+r+":"+t+":"+n)}}),e.exports.__wasm_call_ctors()}));function t(r,t,n,o,f,a){var i=e.exports.sbrk,s=n+3&-4,c=i(s*o),u=i(f.length),d=new Uint8Array(e.exports.memory.buffer);d.set(f,u);var b=r(c,n,o,u,f.length);if(0==b&&a&&a(c,s,o),t.set(d.subarray(c,c+n*o)),i(c-i(0)),0!=b)throw new Error("Malformed buffer data: "+b)}var n={NONE:"",OCTAHEDRAL:"meshopt_decodeFilterOct",QUATERNION:"meshopt_decodeFilterQuat",EXPONENTIAL:"meshopt_decodeFilterExp"},o={ATTRIBUTES:"meshopt_decodeVertexBuffer",TRIANGLES:"meshopt_decodeIndexBuffer",INDICES:"meshopt_decodeIndexSequence"},f=[],a=0;function i(e){var r={object:new Worker(e),pending:0,requests:{}};return r.object.onmessage=function(e){var t=e.data;r.pending-=t.count,r.requests[t.id][t.action](t.value),delete r.requests[t.id]},r}function s(e){for(var r="var instance; var ready = WebAssembly.instantiate(new Uint8Array(["+new Uint8Array(function(e){for(var r=new Uint8Array(e.length),t=0;t<e.length;++t){var n=e.charCodeAt(t);r[t]=n>96?n-97:n>64?n-39:n+4}var o=0;for(t=0;t<e.length;++t)r[o++]=r[t]<60?wasmpack[r[t]]:64*(r[t]-60)+r[++t];return r.buffer.slice(0,o)}(wasm))+"]), {}).then(function(result) { instance = result.instance; instance.exports.__wasm_call_ctors(); });self.onmessage = workerProcess;"+t.toString()+c.toString(),n=new Blob([r],{type:"text/javascript"}),o=URL.createObjectURL(n),a=0;a<e;++a)f[a]=i(o);URL.revokeObjectURL(o)}function c(n){r.then((function(){var r=n.data;try{var o=new Uint8Array(r.count*r.size);t(e.exports[r.mode],o,r.count,r.size,r.source,e.exports[r.filter]),self.postMessage({id:r.id,count:r.count,action:"resolve",value:o},[o.buffer])}catch(e){self.postMessage({id:r.id,count:r.count,action:"reject",value:e})}}))}return{ready:r,supported:!0,useWorkers:function(e){s(e)},decodeVertexBuffer:function(r,o,f,a,i){t(e.exports.meshopt_decodeVertexBuffer,r,o,f,a,e.exports[n[i]])},decodeIndexBuffer:function(r,n,o,f){t(e.exports.meshopt_decodeIndexBuffer,r,n,o,f)},decodeIndexSequence:function(r,n,o,f){t(e.exports.meshopt_decodeIndexSequence,r,n,o,f)},decodeGltfBuffer:function(r,f,a,i,s,c){t(e.exports[o[s]],r,f,a,i,e.exports[n[c]])},decodeGltfBufferAsync:function(i,s,c,u,d){return f.length>0?function(e,r,t,n,o){for(var i=f[0],s=1;s<f.length;++s)f[s].pending<i.pending&&(i=f[s]);return new Promise((function(f,s){var c=new Uint8Array(t),u=a++;i.pending+=e,i.requests[u]={resolve:f,reject:s},i.object.postMessage({id:u,count:e,size:r,source:c,mode:n,filter:o},[c.buffer])}))}(i,s,c,o[u],n[d]):r.then((function(){var r=new Uint8Array(i*s);return t(e.exports[o[u]],r,i,s,c,e.exports[n[d]]),r}))}}}();e.exports=r}(r={exports:{}}),r.exports);e({default:t,__moduleExports:t})}}}));
+System.register([], (function (exports) {
+	'use strict';
+	return {
+		execute: (function () {
+
+			function createCommonjsModule(fn, module) {
+				return module = { exports: {} }, fn(module, module.exports), module.exports;
+			}
+
+			var meshopt_decoder_asm = createCommonjsModule(function (module, exports) {
+			// This file is part of meshoptimizer library and is distributed under the terms of MIT License.
+			// Copyright (C) 2016-2023, by Arseny Kapoulkine (arseny.kapoulkine@gmail.com)
+			var MeshoptDecoder = (function () {
+
+				var instance = {};
+
+				var ready = Promise.resolve().then(function () {
+					instance.exports = instantiate({// env
+						abort: function (msg, file, line, column) {
+							throw Error("abort: " + msg + " at " + file + ":" + line + ":" + column);
+						},
+					});
+					instance.exports.__wasm_call_ctors();
+				});
+
+				function unpack(data) {
+					var result = new Uint8Array(data.length);
+					for (var i = 0; i < data.length; ++i) {
+						var ch = data.charCodeAt(i);
+						result[i] = ch > 96 ? ch - 97 : ch > 64 ? ch - 39 : ch + 4;
+					}
+					var write = 0;
+					for (var i = 0; i < data.length; ++i) {
+						result[write++] = (result[i] < 60) ? wasmpack[result[i]] : (result[i] - 60) * 64 + result[++i];
+					}
+					return result.buffer.slice(0, write);
+				}
+
+				function decode(fun, target, count, size, source, filter) {
+					var sbrk = instance.exports.sbrk;
+					var count4 = (count + 3) & ~3;
+					var tp = sbrk(count4 * size);
+					var sp = sbrk(source.length);
+					var heap = new Uint8Array(instance.exports.memory.buffer);
+					heap.set(source, sp);
+					var res = fun(tp, count, size, sp, source.length);
+					if (res == 0 && filter) {
+						filter(tp, count4, size);
+					}
+					target.set(heap.subarray(tp, tp + count * size));
+					sbrk(tp - sbrk(0));
+					if (res != 0) {
+						throw new Error("Malformed buffer data: " + res);
+					}
+				}
+
+				var filters = {
+					NONE: "",
+					OCTAHEDRAL: "meshopt_decodeFilterOct",
+					QUATERNION: "meshopt_decodeFilterQuat",
+					EXPONENTIAL: "meshopt_decodeFilterExp",
+				};
+
+				var decoders = {
+					ATTRIBUTES: "meshopt_decodeVertexBuffer",
+					TRIANGLES: "meshopt_decodeIndexBuffer",
+					INDICES: "meshopt_decodeIndexSequence",
+				};
+
+				var workers = [];
+				var requestId = 0;
+
+				function createWorker(url) {
+					var worker = {
+						object: new Worker(url),
+						pending: 0,
+						requests: {}
+					};
+
+					worker.object.onmessage = function (event) {
+						var data = event.data;
+
+						worker.pending -= data.count;
+						worker.requests[data.id][data.action](data.value);
+
+						delete worker.requests[data.id];
+					};
+
+					return worker;
+				}
+
+				function initWorkers(count) {
+					var source =
+						"var instance; var ready = WebAssembly.instantiate(new Uint8Array([" + new Uint8Array(unpack(wasm)) + "]), {})" +
+						".then(function(result) { instance = result.instance; instance.exports.__wasm_call_ctors(); });" +
+						"self.onmessage = workerProcess;" +
+						decode.toString() + workerProcess.toString();
+
+					var blob = new Blob([source], { type: 'text/javascript' });
+					var url = URL.createObjectURL(blob);
+
+					for (var i = 0; i < count; ++i) {
+						workers[i] = createWorker(url);
+					}
+
+					URL.revokeObjectURL(url);
+				}
+
+				function decodeWorker(count, size, source, mode, filter) {
+					var worker = workers[0];
+
+					for (var i = 1; i < workers.length; ++i) {
+						if (workers[i].pending < worker.pending) {
+							worker = workers[i];
+						}
+					}
+
+					return new Promise(function (resolve, reject) {
+						var data = new Uint8Array(source);
+						var id = requestId++;
+
+						worker.pending += count;
+						worker.requests[id] = { resolve: resolve, reject: reject };
+						worker.object.postMessage({ id: id, count: count, size: size, source: data, mode: mode, filter: filter }, [data.buffer]);
+					});
+				}
+
+				function workerProcess(event) {
+					ready.then(function () {
+						var data = event.data;
+						try {
+							var target = new Uint8Array(data.count * data.size);
+							decode(instance.exports[data.mode], target, data.count, data.size, data.source, instance.exports[data.filter]);
+							self.postMessage({ id: data.id, count: data.count, action: "resolve", value: target }, [target.buffer]);
+						} catch (error) {
+							self.postMessage({ id: data.id, count: data.count, action: "reject", value: error });
+						}
+					});
+				}
+
+				return {
+					ready: ready,
+					supported: true,
+					useWorkers: function (count) {
+						initWorkers(count);
+					},
+					decodeVertexBuffer: function (target, count, size, source, filter) {
+						decode(instance.exports.meshopt_decodeVertexBuffer, target, count, size, source, instance.exports[filters[filter]]);
+					},
+					decodeIndexBuffer: function (target, count, size, source) {
+						decode(instance.exports.meshopt_decodeIndexBuffer, target, count, size, source);
+					},
+					decodeIndexSequence: function (target, count, size, source) {
+						decode(instance.exports.meshopt_decodeIndexSequence, target, count, size, source);
+					},
+					decodeGltfBuffer: function (target, count, size, source, mode, filter) {
+						decode(instance.exports[decoders[mode]], target, count, size, source, instance.exports[filters[filter]]);
+					},
+					decodeGltfBufferAsync: function (count, size, source, mode, filter) {
+						if (workers.length > 0) {
+							return decodeWorker(count, size, source, decoders[mode], filters[filter]);
+						}
+
+						return ready.then(function () {
+							var target = new Uint8Array(count * size);
+							decode(instance.exports[decoders[mode]], target, count, size, source, instance.exports[filters[filter]]);
+							return target;
+						});
+					}
+				};
+			})();
+
+			// UMD-style export
+			module.exports = MeshoptDecoder;
+
+			function instantiate(asmLibraryArg) {
+				var bufferView;
+				var base64ReverseLookup = new Uint8Array(123/*'z'+1*/);
+				for (var i = 25; i >= 0; --i) {
+					base64ReverseLookup[48 + i] = 52 + i; // '0-9'
+					base64ReverseLookup[65 + i] = i; // 'A-Z'
+					base64ReverseLookup[97 + i] = 26 + i; // 'a-z'
+				}
+				base64ReverseLookup[43] = 62; // '+'
+				base64ReverseLookup[47] = 63; // '/'
+				/** @noinline Inlining this function would mean expanding the base64 string 4x times in the source code, which Closure seems to be happy to do. */
+				function base64DecodeToExistingUint8Array(uint8Array, offset, b64) {
+					var b1, b2, i = 0, j = offset, bLength = b64.length, end = offset + (bLength * 3 >> 2) - (b64[bLength - 2] == '=') - (b64[bLength - 1] == '=');
+					for (; i < bLength; i += 4) {
+						b1 = base64ReverseLookup[b64.charCodeAt(i + 1)];
+						b2 = base64ReverseLookup[b64.charCodeAt(i + 2)];
+						uint8Array[j++] = base64ReverseLookup[b64.charCodeAt(i)] << 2 | b1 >> 4;
+						if (j < end) uint8Array[j++] = b1 << 4 | b2 >> 2;
+						if (j < end) uint8Array[j++] = b2 << 6 | base64ReverseLookup[b64.charCodeAt(i + 3)];
+					}
+				}
+				function initActiveSegments(imports) {
+					base64DecodeToExistingUint8Array(bufferView, 1024, "EGQAAA==");
+				}
+				function asmFunc(env) {
+					var buffer = new ArrayBuffer(65536);
+					var HEAP8 = new Int8Array(buffer);
+					var HEAP16 = new Int16Array(buffer);
+					var HEAP32 = new Int32Array(buffer);
+					var HEAPU8 = new Uint8Array(buffer);
+					var Math_imul = Math.imul;
+					env.abort;
+					var global$0 = 25616;
+					function $0() {
+
+					}
+
+					function $1($0_1, $1_1, $2_1, $3_1, $4_1) {
+						$0_1 = $0_1 | 0;
+						$1_1 = $1_1 | 0;
+						$2_1 = $2_1 | 0;
+						$3_1 = $3_1 | 0;
+						$4_1 = $4_1 | 0;
+						var $20 = 0, $19 = 0, $21 = 0, $6 = 0, i64toi32_i32$1 = 0, $8 = 0, $18 = 0, i64toi32_i32$0 = 0, $17 = 0, $13 = 0, $11 = 0, $60 = 0, $7 = 0, $12 = 0, $15 = 0, $10 = 0, $14 = 0, $61 = 0, $62 = 0, $5_1 = 0, $16 = 0, $9 = 0, $117 = 0, $137 = 0, $152 = 0, $166 = 0, $182 = 0, $197 = 0, $212 = 0, $226 = 0, $242 = 0, $257 = 0, $272 = 0, $286 = 0, $302 = 0, $317 = 0, $332 = 0, $338 = 0, $346 = 0, $361 = 0, $380 = 0, $396 = 0, $410 = 0, $426 = 0, $440 = 0, $456 = 0, $470 = 0, $486 = 0, $500 = 0, $516 = 0, $530 = 0, $546 = 0, $560 = 0, $576 = 0, $582 = 0, $590 = 0, $600 = 0, $605 = 0, wasm2js_i32$0 = 0, wasm2js_i32$1 = 0, wasm2js_i32$2 = 0;
+						$5_1 = global$0 - 8704 | 0;
+						global$0 = $5_1;
+						$6 = -2;
+						label$1: {
+							if (($2_1 + 1 | 0) >>> 0 > $4_1 >>> 0) {
+								break label$1
+							}
+							$6 = -1;
+							if ((HEAPU8[$3_1 >> 0] | 0 | 0) != (160 | 0)) {
+								break label$1
+							}
+							$7 = $3_1 + $4_1 | 0;
+							$8 = $4($5_1 | 0, $7 - $2_1 | 0 | 0, $2_1 | 0) | 0;
+							$4_1 = (8192 >>> 0) / ($2_1 >>> 0) | 0;
+							$6 = $3_1 + 1 | 0;
+							label$2: {
+								if (!$2_1) {
+									break label$2
+								}
+								$4_1 = $4_1 & 16368 | 0;
+								$9 = $4_1 >>> 0 < 256 >>> 0 ? $4_1 : 256;
+								$10 = 0;
+								label$3: while (1) {
+									if ($10 >>> 0 >= $1_1 >>> 0) {
+										break label$2
+									}
+									$11 = ($10 + $9 | 0) >>> 0 < $1_1 >>> 0 ? $9 : $1_1 - $10 | 0;
+									$4_1 = $11 + 15 | 0;
+									$12 = (($4_1 >>> 4 | 0) + 3 | 0) >>> 2 | 0;
+									label$4: {
+										label$5: {
+											label$6: {
+												label$7: {
+													$13 = $4_1 & -16 | 0;
+													if (!$13) {
+														break label$7
+													}
+													$14 = 0;
+													$15 = 1;
+													$16 = $8 + 256 | 0;
+													$17 = $6;
+													label$8: while (1) {
+														if (($7 - $17 | 0) >>> 0 < $12 >>> 0) {
+															break label$5
+														}
+														label$9: {
+															$6 = $17 + $12 | 0;
+															if (($7 - $6 | 0) >>> 0 < 24 >>> 0) {
+																break label$9
+															}
+															$4_1 = 16;
+															$18 = 0;
+															label$10: while (1) {
+																$3_1 = $4_1;
+																$19 = $4_1 + -16 | 0;
+																$4_1 = $19 + ($8 + 8448 | 0) | 0;
+																label$11: {
+																	label$12: {
+																		switch (((HEAPU8[($17 + ($19 >>> 6 | 0) | 0) >> 0] | 0) >>> ($18 & 6 | 0) | 0) & 3 | 0 | 0) {
+																			default:
+																				i64toi32_i32$1 = $4_1;
+																				i64toi32_i32$0 = 0;
+																				HEAP32[$4_1 >> 2] = 0;
+																				HEAP32[($4_1 + 4 | 0) >> 2] = i64toi32_i32$0;
+																				i64toi32_i32$1 = $4_1 + 8 | 0;
+																				i64toi32_i32$0 = 0;
+																				HEAP32[i64toi32_i32$1 >> 2] = 0;
+																				HEAP32[(i64toi32_i32$1 + 4 | 0) >> 2] = i64toi32_i32$0;
+																				break label$11;
+																			case 1:
+																				$19 = HEAPU8[$6 >> 0] | 0;
+																				$20 = $19 >>> 6 | 0;
+																				$117 = $20;
+																				$20 = ($20 | 0) == (3 | 0);
+																				HEAP8[$4_1 >> 0] = (wasm2js_i32$0 = HEAPU8[($6 + 4 | 0) >> 0] | 0, wasm2js_i32$1 = $117, wasm2js_i32$2 = $20, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$4_1 = ($8 + 8448 | 0) + $3_1 | 0;
+																				$20 = ($6 + 4 | 0) + $20 | 0;
+																				$21 = ($19 >>> 4 | 0) & 3 | 0;
+																				$137 = $21;
+																				$21 = ($21 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -15 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$20 >> 0] | 0, wasm2js_i32$1 = $137, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$20 = $20 + $21 | 0;
+																				$21 = ($19 >>> 2 | 0) & 3 | 0;
+																				$152 = $21;
+																				$21 = ($21 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -14 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$20 >> 0] | 0, wasm2js_i32$1 = $152, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$20 = $20 + $21 | 0;
+																				$19 = $19 & 3 | 0;
+																				$166 = $19;
+																				$19 = ($19 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -13 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$20 >> 0] | 0, wasm2js_i32$1 = $166, wasm2js_i32$2 = $19, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$20 = $20 + $19 | 0;
+																				$19 = HEAPU8[($6 + 1 | 0) >> 0] | 0;
+																				$21 = $19 >>> 6 | 0;
+																				$182 = $21;
+																				$21 = ($21 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -12 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$20 >> 0] | 0, wasm2js_i32$1 = $182, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$20 = $20 + $21 | 0;
+																				$21 = ($19 >>> 4 | 0) & 3 | 0;
+																				$197 = $21;
+																				$21 = ($21 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -11 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$20 >> 0] | 0, wasm2js_i32$1 = $197, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$20 = $20 + $21 | 0;
+																				$21 = ($19 >>> 2 | 0) & 3 | 0;
+																				$212 = $21;
+																				$21 = ($21 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -10 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$20 >> 0] | 0, wasm2js_i32$1 = $212, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$20 = $20 + $21 | 0;
+																				$19 = $19 & 3 | 0;
+																				$226 = $19;
+																				$19 = ($19 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -9 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$20 >> 0] | 0, wasm2js_i32$1 = $226, wasm2js_i32$2 = $19, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$20 = $20 + $19 | 0;
+																				$19 = HEAPU8[($6 + 2 | 0) >> 0] | 0;
+																				$21 = $19 >>> 6 | 0;
+																				$242 = $21;
+																				$21 = ($21 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -8 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$20 >> 0] | 0, wasm2js_i32$1 = $242, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$20 = $20 + $21 | 0;
+																				$21 = ($19 >>> 4 | 0) & 3 | 0;
+																				$257 = $21;
+																				$21 = ($21 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -7 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$20 >> 0] | 0, wasm2js_i32$1 = $257, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$20 = $20 + $21 | 0;
+																				$21 = ($19 >>> 2 | 0) & 3 | 0;
+																				$272 = $21;
+																				$21 = ($21 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -6 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$20 >> 0] | 0, wasm2js_i32$1 = $272, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$20 = $20 + $21 | 0;
+																				$19 = $19 & 3 | 0;
+																				$286 = $19;
+																				$19 = ($19 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -5 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$20 >> 0] | 0, wasm2js_i32$1 = $286, wasm2js_i32$2 = $19, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $20 + $19 | 0;
+																				$6 = HEAPU8[($6 + 3 | 0) >> 0] | 0;
+																				$20 = $6 >>> 6 | 0;
+																				$302 = $20;
+																				$20 = ($20 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -4 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $302, wasm2js_i32$2 = $20, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $20 | 0;
+																				$20 = ($6 >>> 4 | 0) & 3 | 0;
+																				$317 = $20;
+																				$20 = ($20 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -3 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $317, wasm2js_i32$2 = $20, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $20 | 0;
+																				$20 = ($6 >>> 2 | 0) & 3 | 0;
+																				$332 = $20;
+																				$20 = ($20 | 0) == (3 | 0);
+																				HEAP8[($4_1 + -2 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $332, wasm2js_i32$2 = $20, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$338 = $4_1 + -1 | 0;
+																				$4_1 = $19 + $20 | 0;
+																				$6 = $6 & 3 | 0;
+																				$346 = $6;
+																				$6 = ($6 | 0) == (3 | 0);
+																				HEAP8[$338 >> 0] = (wasm2js_i32$0 = HEAPU8[$4_1 >> 0] | 0, wasm2js_i32$1 = $346, wasm2js_i32$2 = $6, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$6 = $4_1 + $6 | 0;
+																				break label$11;
+																			case 2:
+																				$19 = HEAPU8[$6 >> 0] | 0;
+																				$20 = $19 >>> 4 | 0;
+																				$361 = $20;
+																				$20 = ($20 | 0) == (15 | 0);
+																				HEAP8[$4_1 >> 0] = (wasm2js_i32$0 = HEAPU8[($6 + 8 | 0) >> 0] | 0, wasm2js_i32$1 = $361, wasm2js_i32$2 = $20, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$4_1 = ($8 + 8448 | 0) + $3_1 | 0;
+																				$20 = ($6 + 8 | 0) + $20 | 0;
+																				$19 = $19 & 15 | 0;
+																				$380 = $19;
+																				$19 = ($19 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -15 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$20 >> 0] | 0, wasm2js_i32$1 = $380, wasm2js_i32$2 = $19, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $20 + $19 | 0;
+																				$20 = HEAPU8[($6 + 1 | 0) >> 0] | 0;
+																				$21 = $20 >>> 4 | 0;
+																				$396 = $21;
+																				$21 = ($21 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -14 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $396, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $21 | 0;
+																				$20 = $20 & 15 | 0;
+																				$410 = $20;
+																				$20 = ($20 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -13 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $410, wasm2js_i32$2 = $20, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $20 | 0;
+																				$20 = HEAPU8[($6 + 2 | 0) >> 0] | 0;
+																				$21 = $20 >>> 4 | 0;
+																				$426 = $21;
+																				$21 = ($21 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -12 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $426, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $21 | 0;
+																				$20 = $20 & 15 | 0;
+																				$440 = $20;
+																				$20 = ($20 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -11 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $440, wasm2js_i32$2 = $20, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $20 | 0;
+																				$20 = HEAPU8[($6 + 3 | 0) >> 0] | 0;
+																				$21 = $20 >>> 4 | 0;
+																				$456 = $21;
+																				$21 = ($21 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -10 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $456, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $21 | 0;
+																				$20 = $20 & 15 | 0;
+																				$470 = $20;
+																				$20 = ($20 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -9 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $470, wasm2js_i32$2 = $20, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $20 | 0;
+																				$20 = HEAPU8[($6 + 4 | 0) >> 0] | 0;
+																				$21 = $20 >>> 4 | 0;
+																				$486 = $21;
+																				$21 = ($21 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -8 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $486, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $21 | 0;
+																				$20 = $20 & 15 | 0;
+																				$500 = $20;
+																				$20 = ($20 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -7 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $500, wasm2js_i32$2 = $20, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $20 | 0;
+																				$20 = HEAPU8[($6 + 5 | 0) >> 0] | 0;
+																				$21 = $20 >>> 4 | 0;
+																				$516 = $21;
+																				$21 = ($21 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -6 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $516, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $21 | 0;
+																				$20 = $20 & 15 | 0;
+																				$530 = $20;
+																				$20 = ($20 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -5 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $530, wasm2js_i32$2 = $20, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $20 | 0;
+																				$20 = HEAPU8[($6 + 6 | 0) >> 0] | 0;
+																				$21 = $20 >>> 4 | 0;
+																				$546 = $21;
+																				$21 = ($21 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -4 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $546, wasm2js_i32$2 = $21, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $21 | 0;
+																				$20 = $20 & 15 | 0;
+																				$560 = $20;
+																				$20 = ($20 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -3 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $560, wasm2js_i32$2 = $20, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$19 = $19 + $20 | 0;
+																				$6 = HEAPU8[($6 + 7 | 0) >> 0] | 0;
+																				$20 = $6 >>> 4 | 0;
+																				$576 = $20;
+																				$20 = ($20 | 0) == (15 | 0);
+																				HEAP8[($4_1 + -2 | 0) >> 0] = (wasm2js_i32$0 = HEAPU8[$19 >> 0] | 0, wasm2js_i32$1 = $576, wasm2js_i32$2 = $20, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$582 = $4_1 + -1 | 0;
+																				$4_1 = $19 + $20 | 0;
+																				$6 = $6 & 15 | 0;
+																				$590 = $6;
+																				$6 = ($6 | 0) == (15 | 0);
+																				HEAP8[$582 >> 0] = (wasm2js_i32$0 = HEAPU8[$4_1 >> 0] | 0, wasm2js_i32$1 = $590, wasm2js_i32$2 = $6, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+																				$6 = $4_1 + $6 | 0;
+																				break label$11;
+																			case 3:
+																				break label$12;
+																		}														}
+																	i64toi32_i32$0 = HEAPU8[$6 >> 0] | 0 | ((HEAPU8[($6 + 1 | 0) >> 0] | 0) << 8 | 0) | 0 | ((HEAPU8[($6 + 2 | 0) >> 0] | 0) << 16 | 0 | ((HEAPU8[($6 + 3 | 0) >> 0] | 0) << 24 | 0) | 0) | 0;
+																	i64toi32_i32$1 = HEAPU8[($6 + 4 | 0) >> 0] | 0 | ((HEAPU8[($6 + 5 | 0) >> 0] | 0) << 8 | 0) | 0 | ((HEAPU8[($6 + 6 | 0) >> 0] | 0) << 16 | 0 | ((HEAPU8[($6 + 7 | 0) >> 0] | 0) << 24 | 0) | 0) | 0;
+																	$600 = i64toi32_i32$0;
+																	i64toi32_i32$0 = $4_1;
+																	$61 = $600;
+																	HEAP8[$4_1 >> 0] = $61;
+																	HEAP8[($4_1 + 1 | 0) >> 0] = $61 >>> 8 | 0;
+																	HEAP8[($4_1 + 2 | 0) >> 0] = $61 >>> 16 | 0;
+																	HEAP8[($4_1 + 3 | 0) >> 0] = $61 >>> 24 | 0;
+																	HEAP8[($4_1 + 4 | 0) >> 0] = i64toi32_i32$1;
+																	HEAP8[($4_1 + 5 | 0) >> 0] = i64toi32_i32$1 >>> 8 | 0;
+																	HEAP8[($4_1 + 6 | 0) >> 0] = i64toi32_i32$1 >>> 16 | 0;
+																	HEAP8[($4_1 + 7 | 0) >> 0] = i64toi32_i32$1 >>> 24 | 0;
+																	$60 = $6 + 8 | 0;
+																	i64toi32_i32$1 = HEAPU8[$60 >> 0] | 0 | ((HEAPU8[($60 + 1 | 0) >> 0] | 0) << 8 | 0) | 0 | ((HEAPU8[($60 + 2 | 0) >> 0] | 0) << 16 | 0 | ((HEAPU8[($60 + 3 | 0) >> 0] | 0) << 24 | 0) | 0) | 0;
+																	i64toi32_i32$0 = HEAPU8[($60 + 4 | 0) >> 0] | 0 | ((HEAPU8[($60 + 5 | 0) >> 0] | 0) << 8 | 0) | 0 | ((HEAPU8[($60 + 6 | 0) >> 0] | 0) << 16 | 0 | ((HEAPU8[($60 + 7 | 0) >> 0] | 0) << 24 | 0) | 0) | 0;
+																	$605 = i64toi32_i32$1;
+																	i64toi32_i32$1 = $4_1 + 8 | 0;
+																	$62 = $605;
+																	HEAP8[i64toi32_i32$1 >> 0] = $62;
+																	HEAP8[(i64toi32_i32$1 + 1 | 0) >> 0] = $62 >>> 8 | 0;
+																	HEAP8[(i64toi32_i32$1 + 2 | 0) >> 0] = $62 >>> 16 | 0;
+																	HEAP8[(i64toi32_i32$1 + 3 | 0) >> 0] = $62 >>> 24 | 0;
+																	HEAP8[(i64toi32_i32$1 + 4 | 0) >> 0] = i64toi32_i32$0;
+																	HEAP8[(i64toi32_i32$1 + 5 | 0) >> 0] = i64toi32_i32$0 >>> 8 | 0;
+																	HEAP8[(i64toi32_i32$1 + 6 | 0) >> 0] = i64toi32_i32$0 >>> 16 | 0;
+																	HEAP8[(i64toi32_i32$1 + 7 | 0) >> 0] = i64toi32_i32$0 >>> 24 | 0;
+																	$6 = $6 + 16 | 0;
+																}
+																label$16: {
+																	if ($3_1 >>> 0 >= $13 >>> 0) {
+																		break label$16
+																	}
+																	$18 = $18 + 2 | 0;
+																	$4_1 = $3_1 + 16 | 0;
+																	if (($7 - $6 | 0) >>> 0 > 23 >>> 0) {
+																		continue label$10
+																	}
+																}
+																break label$10;
+															}												if ($3_1 >>> 0 < $13 >>> 0) {
+																break label$6
+															}
+															if (!$6) {
+																break label$6
+															}
+															label$17: {
+																if (!$11) {
+																	break label$17
+																}
+																$18 = HEAPU8[($8 + $14 | 0) >> 0] | 0;
+																$4_1 = $8 + 8448 | 0;
+																$3_1 = $16;
+																$19 = $11;
+																label$18: while (1) {
+																	$17 = HEAPU8[$4_1 >> 0] | 0;
+																	$18 = (($17 >>> 1 | 0) ^ (0 - ($17 & 1 | 0) | 0) | 0) + $18 | 0;
+																	HEAP8[$3_1 >> 0] = $18;
+																	$3_1 = $3_1 + $2_1 | 0;
+																	$4_1 = $4_1 + 1 | 0;
+																	$19 = $19 + -1 | 0;
+																	if ($19) {
+																		continue label$18
+																	}
+																	break label$18;
+																}												}
+															$16 = $16 + 1 | 0;
+															$14 = $14 + 1 | 0;
+															$15 = $14 >>> 0 < $2_1 >>> 0;
+															$17 = $6;
+															if (($14 | 0) != ($2_1 | 0)) {
+																continue label$8
+															}
+															break label$4;
+														}
+														break label$8;
+													}										$6 = 0;
+													if ($15 & 1 | 0) {
+														break label$5
+													}
+													break label$4;
+												}
+												$21 = $6 + Math_imul($12, $2_1) | 0;
+												label$19: {
+													if (!$11) {
+														break label$19
+													}
+													$13 = 0;
+													$15 = 1;
+													$20 = $8 + 256 | 0;
+													label$20: while (1) {
+														if (($7 - $6 | 0) >>> 0 < $12 >>> 0) {
+															break label$5
+														}
+														if (!$6) {
+															break label$6
+														}
+														$6 = $6 + $12 | 0;
+														$18 = HEAPU8[($8 + $13 | 0) >> 0] | 0;
+														$4_1 = $8 + 8448 | 0;
+														$3_1 = $20;
+														$19 = $11;
+														label$21: while (1) {
+															$17 = HEAPU8[$4_1 >> 0] | 0;
+															$18 = (($17 >>> 1 | 0) ^ (0 - ($17 & 1 | 0) | 0) | 0) + $18 | 0;
+															HEAP8[$3_1 >> 0] = $18;
+															$3_1 = $3_1 + $2_1 | 0;
+															$4_1 = $4_1 + 1 | 0;
+															$19 = $19 + -1 | 0;
+															if ($19) {
+																continue label$21
+															}
+															break label$21;
+														}											$20 = $20 + 1 | 0;
+														$13 = $13 + 1 | 0;
+														$15 = $13 >>> 0 < $2_1 >>> 0;
+														if (($13 | 0) != ($2_1 | 0)) {
+															continue label$20
+														}
+														break label$20;
+													}										$6 = $21;
+													break label$4;
+												}
+												$4_1 = 0;
+												$15 = 1;
+												label$22: while (1) {
+													if (($7 - $6 | 0) >>> 0 < $12 >>> 0) {
+														break label$5
+													}
+													if (!$6) {
+														break label$6
+													}
+													$6 = $6 + $12 | 0;
+													$4_1 = $4_1 + 1 | 0;
+													$15 = $4_1 >>> 0 < $2_1 >>> 0;
+													if (($2_1 | 0) != ($4_1 | 0)) {
+														continue label$22
+													}
+													break label$22;
+												}									$6 = $21;
+												break label$4;
+											}
+											$6 = 0;
+											if (!($15 & 1 | 0)) {
+												break label$4
+											}
+										}
+										$6 = -2;
+										break label$1;
+									}
+									$4($0_1 + Math_imul($10, $2_1) | 0 | 0, $8 + 256 | 0 | 0, Math_imul($11, $2_1) | 0) | 0;
+									$4($8 | 0, ($8 + 256 | 0) + Math_imul($11 + -1 | 0, $2_1) | 0 | 0, $2_1 | 0) | 0;
+									$10 = $11 + $10 | 0;
+									if ($6) {
+										continue label$3
+									}
+									break label$3;
+								}					$6 = -2;
+								break label$1;
+							}
+							$6 = ($7 - $6 | 0 | 0) == (($2_1 >>> 0 > 32 >>> 0 ? $2_1 : 32) | 0) ? 0 : -3;
+						}
+						global$0 = $5_1 + 8704 | 0;
+						return $6 | 0;
+					}
+
+					function $2($0_1, $1_1, $2_1, $3_1, $4_1) {
+						$0_1 = $0_1 | 0;
+						$1_1 = $1_1 | 0;
+						$2_1 = $2_1 | 0;
+						$3_1 = $3_1 | 0;
+						$4_1 = $4_1 | 0;
+						var $9 = 0, $15 = 0, $14 = 0, $5_1 = 0, $6 = 0, $17 = 0, $18 = 0, $16 = 0, i64toi32_i32$1 = 0, $13 = 0, i64toi32_i32$0 = 0, $7 = 0, $12 = 0, $19 = 0, $8 = 0, $20 = 0, $10 = 0, $21 = 0, $11 = 0, wasm2js_i32$0 = 0, wasm2js_i32$1 = 0, wasm2js_i32$2 = 0;
+						$5_1 = global$0 - 192 | 0;
+						global$0 = $5_1;
+						$6 = -2;
+						label$1: {
+							$7 = ($1_1 >>> 0) / (3 >>> 0) | 0;
+							if (($7 + 17 | 0) >>> 0 > $4_1 >>> 0) {
+								break label$1
+							}
+							$6 = -1;
+							$8 = HEAPU8[$3_1 >> 0] | 0;
+							if (($8 & 240 | 0 | 0) != (224 | 0)) {
+								break label$1
+							}
+							$9 = $8 & 15 | 0;
+							if ($9 >>> 0 > 1 >>> 0) {
+								break label$1
+							}
+							$5($5_1 + 64 | 0 | 0, 255 | 0, 128 | 0) | 0;
+							i64toi32_i32$1 = $5_1 + 56 | 0;
+							i64toi32_i32$0 = -1;
+							HEAP32[i64toi32_i32$1 >> 2] = -1;
+							HEAP32[(i64toi32_i32$1 + 4 | 0) >> 2] = i64toi32_i32$0;
+							i64toi32_i32$1 = $5_1 + 48 | 0;
+							i64toi32_i32$0 = -1;
+							HEAP32[i64toi32_i32$1 >> 2] = -1;
+							HEAP32[(i64toi32_i32$1 + 4 | 0) >> 2] = i64toi32_i32$0;
+							i64toi32_i32$1 = $5_1 + 40 | 0;
+							i64toi32_i32$0 = -1;
+							HEAP32[i64toi32_i32$1 >> 2] = -1;
+							HEAP32[(i64toi32_i32$1 + 4 | 0) >> 2] = i64toi32_i32$0;
+							i64toi32_i32$1 = $5_1 + 32 | 0;
+							i64toi32_i32$0 = -1;
+							HEAP32[i64toi32_i32$1 >> 2] = -1;
+							HEAP32[(i64toi32_i32$1 + 4 | 0) >> 2] = i64toi32_i32$0;
+							i64toi32_i32$1 = $5_1 + 24 | 0;
+							i64toi32_i32$0 = -1;
+							HEAP32[i64toi32_i32$1 >> 2] = -1;
+							HEAP32[(i64toi32_i32$1 + 4 | 0) >> 2] = i64toi32_i32$0;
+							i64toi32_i32$1 = $5_1 + 16 | 0;
+							i64toi32_i32$0 = -1;
+							HEAP32[i64toi32_i32$1 >> 2] = -1;
+							HEAP32[(i64toi32_i32$1 + 4 | 0) >> 2] = i64toi32_i32$0;
+							i64toi32_i32$1 = $5_1;
+							i64toi32_i32$0 = -1;
+							HEAP32[($5_1 + 8 | 0) >> 2] = -1;
+							HEAP32[($5_1 + 12 | 0) >> 2] = i64toi32_i32$0;
+							i64toi32_i32$1 = $5_1;
+							i64toi32_i32$0 = -1;
+							HEAP32[$5_1 >> 2] = -1;
+							HEAP32[($5_1 + 4 | 0) >> 2] = i64toi32_i32$0;
+							$10 = ($3_1 + $4_1 | 0) + -16 | 0;
+							$8 = $3_1 + 1 | 0;
+							$6 = $8 + $7 | 0;
+							label$2: {
+								if (!$1_1) {
+									break label$2
+								}
+								$11 = ($9 | 0) == (1 | 0) ? 13 : 15;
+								$12 = 0;
+								$13 = 0;
+								$7 = 0;
+								$3_1 = 0;
+								$4_1 = 0;
+								label$3: while (1) {
+									label$4: {
+										if ($6 >>> 0 <= $10 >>> 0) {
+											break label$4
+										}
+										$6 = -2;
+										break label$1;
+									}
+									label$5: {
+										label$6: {
+											$9 = HEAPU8[$8 >> 0] | 0;
+											if ($9 >>> 0 > 239 >>> 0) {
+												break label$6
+											}
+											$14 = $9 ^ -1 | 0;
+											$15 = ($5_1 + 64 | 0) + ((($4_1 + ($14 >>> 4 | 0) | 0) & 15 | 0) << 3 | 0) | 0;
+											$16 = HEAP32[($15 + 4 | 0) >> 2] | 0;
+											$17 = HEAP32[$15 >> 2] | 0;
+											label$7: {
+												$9 = $9 & 15 | 0;
+												if ($9 >>> 0 >= $11 >>> 0) {
+													break label$7
+												}
+												$15 = (wasm2js_i32$0 = HEAP32[($5_1 + ((($3_1 + $14 | 0) & 15 | 0) << 2 | 0) | 0) >> 2] | 0, wasm2js_i32$1 = $12, wasm2js_i32$2 = $9, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+												$9 = !$9;
+												label$8: {
+													label$9: {
+														if (($2_1 | 0) != (2 | 0)) {
+															break label$9
+														}
+														$14 = $0_1 + ($7 << 1 | 0) | 0;
+														HEAP16[$14 >> 1] = $17;
+														HEAP16[($14 + 2 | 0) >> 1] = $16;
+														HEAP16[($14 + 4 | 0) >> 1] = $15;
+														break label$8;
+													}
+													$14 = $0_1 + ($7 << 2 | 0) | 0;
+													HEAP32[$14 >> 2] = $17;
+													HEAP32[($14 + 4 | 0) >> 2] = $16;
+													HEAP32[($14 + 8 | 0) >> 2] = $15;
+												}
+												$12 = $12 + $9 | 0;
+												$14 = ($5_1 + 64 | 0) + ($4_1 << 3 | 0) | 0;
+												HEAP32[$14 >> 2] = $15;
+												HEAP32[($14 + 4 | 0) >> 2] = $16;
+												HEAP32[($5_1 + ($3_1 << 2 | 0) | 0) >> 2] = $15;
+												$4_1 = ($4_1 + 1 | 0) & 15 | 0;
+												$14 = ($5_1 + 64 | 0) + ($4_1 << 3 | 0) | 0;
+												HEAP32[$14 >> 2] = $17;
+												HEAP32[($14 + 4 | 0) >> 2] = $15;
+												$3_1 = $3_1 + $9 | 0;
+												$4_1 = $4_1 + 1 | 0;
+												break label$5;
+											}
+											label$10: {
+												label$11: {
+													if (($9 | 0) == (15 | 0)) {
+														break label$11
+													}
+													$13 = (($13 + $9 | 0) + ($9 ^ -4 | 0) | 0) + 1 | 0;
+													break label$10;
+												}
+												$9 = $6 + 1 | 0;
+												$15 = HEAP8[$6 >> 0] | 0;
+												$14 = $15 & 255 | 0;
+												label$12: {
+													label$13: {
+														if (($15 | 0) <= (-1 | 0)) {
+															break label$13
+														}
+														$6 = $9;
+														break label$12;
+													}
+													$6 = $6 + 5 | 0;
+													$14 = $14 & 127 | 0;
+													$15 = 7;
+													label$14: {
+														label$15: while (1) {
+															$18 = HEAP8[$9 >> 0] | 0;
+															$14 = ($18 & 127 | 0) << $15 | 0 | $14 | 0;
+															if (($18 | 0) > (-1 | 0)) {
+																break label$14
+															}
+															$9 = $9 + 1 | 0;
+															$15 = $15 + 7 | 0;
+															if (($15 | 0) != (35 | 0)) {
+																continue label$15
+															}
+															break label$12;
+														}										}
+													$6 = $9 + 1 | 0;
+												}
+												$13 = (($14 >>> 1 | 0) ^ (0 - ($14 & 1 | 0) | 0) | 0) + $13 | 0;
+											}
+											label$16: {
+												label$17: {
+													if (($2_1 | 0) != (2 | 0)) {
+														break label$17
+													}
+													$9 = $0_1 + ($7 << 1 | 0) | 0;
+													HEAP16[$9 >> 1] = $17;
+													HEAP16[($9 + 2 | 0) >> 1] = $16;
+													HEAP16[($9 + 4 | 0) >> 1] = $13;
+													break label$16;
+												}
+												$9 = $0_1 + ($7 << 2 | 0) | 0;
+												HEAP32[$9 >> 2] = $17;
+												HEAP32[($9 + 4 | 0) >> 2] = $16;
+												HEAP32[($9 + 8 | 0) >> 2] = $13;
+											}
+											$9 = ($5_1 + 64 | 0) + ($4_1 << 3 | 0) | 0;
+											HEAP32[$9 >> 2] = $13;
+											HEAP32[($9 + 4 | 0) >> 2] = $16;
+											HEAP32[($5_1 + ($3_1 << 2 | 0) | 0) >> 2] = $13;
+											$4_1 = ($4_1 + 1 | 0) & 15 | 0;
+											$9 = ($5_1 + 64 | 0) + ($4_1 << 3 | 0) | 0;
+											HEAP32[$9 >> 2] = $17;
+											HEAP32[($9 + 4 | 0) >> 2] = $13;
+											$3_1 = $3_1 + 1 | 0;
+											$4_1 = $4_1 + 1 | 0;
+											break label$5;
+										}
+										label$18: {
+											if ($9 >>> 0 > 253 >>> 0) {
+												break label$18
+											}
+											$18 = $12 + 1 | 0;
+											$15 = HEAPU8[($10 + ($9 & 15 | 0) | 0) >> 0] | 0;
+											$14 = $15 >>> 0 < 16 >>> 0;
+											$9 = (wasm2js_i32$0 = $18, wasm2js_i32$1 = HEAP32[($5_1 + ((($3_1 - ($15 >>> 4 | 0) | 0) & 15 | 0) << 2 | 0) | 0) >> 2] | 0, wasm2js_i32$2 = $14, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+											$16 = $18 + $14 | 0;
+											$18 = $15 & 15 | 0;
+											$15 = (wasm2js_i32$0 = HEAP32[($5_1 + ((($3_1 - $15 | 0) & 15 | 0) << 2 | 0) | 0) >> 2] | 0, wasm2js_i32$1 = $16, wasm2js_i32$2 = $18, wasm2js_i32$2 ? wasm2js_i32$0 : wasm2js_i32$1);
+											$18 = !$18;
+											label$19: {
+												label$20: {
+													if (($2_1 | 0) != (2 | 0)) {
+														break label$20
+													}
+													$17 = $0_1 + ($7 << 1 | 0) | 0;
+													HEAP16[$17 >> 1] = $12;
+													HEAP16[($17 + 2 | 0) >> 1] = $9;
+													HEAP16[($17 + 4 | 0) >> 1] = $15;
+													break label$19;
+												}
+												$17 = $0_1 + ($7 << 2 | 0) | 0;
+												HEAP32[$17 >> 2] = $12;
+												HEAP32[($17 + 4 | 0) >> 2] = $9;
+												HEAP32[($17 + 8 | 0) >> 2] = $15;
+											}
+											HEAP32[($5_1 + ($3_1 << 2 | 0) | 0) >> 2] = $12;
+											$17 = ($5_1 + 64 | 0) + ($4_1 << 3 | 0) | 0;
+											HEAP32[$17 >> 2] = $9;
+											HEAP32[($17 + 4 | 0) >> 2] = $12;
+											$3_1 = $3_1 + 1 | 0;
+											HEAP32[($5_1 + (($3_1 & 15 | 0) << 2 | 0) | 0) >> 2] = $9;
+											$17 = ($5_1 + 64 | 0) + ((($4_1 + 1 | 0) & 15 | 0) << 3 | 0) | 0;
+											HEAP32[$17 >> 2] = $15;
+											HEAP32[($17 + 4 | 0) >> 2] = $9;
+											$3_1 = ($3_1 + $14 | 0) & 15 | 0;
+											HEAP32[($5_1 + ($3_1 << 2 | 0) | 0) >> 2] = $15;
+											$4_1 = ($4_1 + 2 | 0) & 15 | 0;
+											$9 = ($5_1 + 64 | 0) + ($4_1 << 3 | 0) | 0;
+											HEAP32[$9 >> 2] = $12;
+											HEAP32[($9 + 4 | 0) >> 2] = $15;
+											$4_1 = $4_1 + 1 | 0;
+											$3_1 = $3_1 + $18 | 0;
+											$12 = $16 + $18 | 0;
+											break label$5;
+										}
+										$17 = HEAPU8[$6 >> 0] | 0;
+										$19 = $17 ? $12 : 0;
+										$9 = ($9 | 0) == (254 | 0);
+										$16 = $19 + $9 | 0;
+										$20 = $17 & 15 | 0;
+										$21 = $17 >>> 4 | 0;
+										label$21: {
+											label$22: {
+												if ($17 >>> 0 > 15 >>> 0) {
+													break label$22
+												}
+												$18 = $16 + 1 | 0;
+												break label$21;
+											}
+											$18 = $16;
+											$16 = HEAP32[($5_1 + ((($3_1 - $21 | 0) & 15 | 0) << 2 | 0) | 0) >> 2] | 0;
+										}
+										label$23: {
+											label$24: {
+												if ($20) {
+													break label$24
+												}
+												$12 = $18 + 1 | 0;
+												break label$23;
+											}
+											$12 = $18;
+											$18 = HEAP32[($5_1 + ((($3_1 - $17 | 0) & 15 | 0) << 2 | 0) | 0) >> 2] | 0;
+										}
+										label$25: {
+											label$26: {
+												if (!$9) {
+													break label$26
+												}
+												$9 = $6 + 1 | 0;
+												break label$25;
+											}
+											$9 = $6 + 2 | 0;
+											$14 = HEAP8[($6 + 1 | 0) >> 0] | 0;
+											$15 = $14 & 255 | 0;
+											label$27: {
+												if (($14 | 0) > (-1 | 0)) {
+													break label$27
+												}
+												$19 = $6 + 6 | 0;
+												$15 = $15 & 127 | 0;
+												$6 = 7;
+												label$28: {
+													label$29: while (1) {
+														$14 = HEAP8[$9 >> 0] | 0;
+														$15 = ($14 & 127 | 0) << $6 | 0 | $15 | 0;
+														if (($14 | 0) > (-1 | 0)) {
+															break label$28
+														}
+														$9 = $9 + 1 | 0;
+														$6 = $6 + 7 | 0;
+														if (($6 | 0) != (35 | 0)) {
+															continue label$29
+														}
+														break label$29;
+													}										$9 = $19;
+													break label$27;
+												}
+												$9 = $9 + 1 | 0;
+											}
+											$13 = (($15 >>> 1 | 0) ^ (0 - ($15 & 1 | 0) | 0) | 0) + $13 | 0;
+											$19 = $13;
+										}
+										label$30: {
+											label$31: {
+												if (($21 | 0) == (15 | 0)) {
+													break label$31
+												}
+												$15 = $9;
+												break label$30;
+											}
+											$15 = $9 + 1 | 0;
+											$6 = HEAP8[$9 >> 0] | 0;
+											$14 = $6 & 255 | 0;
+											label$32: {
+												if (($6 | 0) > (-1 | 0)) {
+													break label$32
+												}
+												$16 = $9 + 5 | 0;
+												$14 = $14 & 127 | 0;
+												$6 = 7;
+												label$33: {
+													label$34: while (1) {
+														$9 = HEAP8[$15 >> 0] | 0;
+														$14 = ($9 & 127 | 0) << $6 | 0 | $14 | 0;
+														if (($9 | 0) > (-1 | 0)) {
+															break label$33
+														}
+														$15 = $15 + 1 | 0;
+														$6 = $6 + 7 | 0;
+														if (($6 | 0) != (35 | 0)) {
+															continue label$34
+														}
+														break label$34;
+													}										$15 = $16;
+													break label$32;
+												}
+												$15 = $15 + 1 | 0;
+											}
+											$13 = (($14 >>> 1 | 0) ^ (0 - ($14 & 1 | 0) | 0) | 0) + $13 | 0;
+											$16 = $13;
+										}
+										label$35: {
+											label$36: {
+												if (($20 | 0) == (15 | 0)) {
+													break label$36
+												}
+												$6 = $15;
+												break label$35;
+											}
+											$6 = $15 + 1 | 0;
+											$9 = HEAP8[$15 >> 0] | 0;
+											$14 = $9 & 255 | 0;
+											label$37: {
+												if (($9 | 0) > (-1 | 0)) {
+													break label$37
+												}
+												$18 = $15 + 5 | 0;
+												$14 = $14 & 127 | 0;
+												$9 = 7;
+												label$38: {
+													label$39: while (1) {
+														$15 = HEAP8[$6 >> 0] | 0;
+														$14 = ($15 & 127 | 0) << $9 | 0 | $14 | 0;
+														if (($15 | 0) > (-1 | 0)) {
+															break label$38
+														}
+														$6 = $6 + 1 | 0;
+														$9 = $9 + 7 | 0;
+														if (($9 | 0) != (35 | 0)) {
+															continue label$39
+														}
+														break label$39;
+													}										$6 = $18;
+													break label$37;
+												}
+												$6 = $6 + 1 | 0;
+											}
+											$13 = (($14 >>> 1 | 0) ^ (0 - ($14 & 1 | 0) | 0) | 0) + $13 | 0;
+											$18 = $13;
+										}
+										label$40: {
+											label$41: {
+												if (($2_1 | 0) != (2 | 0)) {
+													break label$41
+												}
+												$9 = $0_1 + ($7 << 1 | 0) | 0;
+												HEAP16[$9 >> 1] = $19;
+												HEAP16[($9 + 2 | 0) >> 1] = $16;
+												HEAP16[($9 + 4 | 0) >> 1] = $18;
+												break label$40;
+											}
+											$9 = $0_1 + ($7 << 2 | 0) | 0;
+											HEAP32[$9 >> 2] = $19;
+											HEAP32[($9 + 4 | 0) >> 2] = $16;
+											HEAP32[($9 + 8 | 0) >> 2] = $18;
+										}
+										$9 = ($5_1 + 64 | 0) + ($4_1 << 3 | 0) | 0;
+										HEAP32[$9 >> 2] = $16;
+										HEAP32[($9 + 4 | 0) >> 2] = $19;
+										HEAP32[($5_1 + ($3_1 << 2 | 0) | 0) >> 2] = $19;
+										$9 = ($5_1 + 64 | 0) + ((($4_1 + 1 | 0) & 15 | 0) << 3 | 0) | 0;
+										HEAP32[$9 >> 2] = $18;
+										HEAP32[($9 + 4 | 0) >> 2] = $16;
+										$3_1 = $3_1 + 1 | 0;
+										HEAP32[($5_1 + (($3_1 & 15 | 0) << 2 | 0) | 0) >> 2] = $16;
+										$9 = ($5_1 + 64 | 0) + ((($4_1 + 2 | 0) & 15 | 0) << 3 | 0) | 0;
+										HEAP32[$9 >> 2] = $19;
+										HEAP32[($9 + 4 | 0) >> 2] = $18;
+										$3_1 = $3_1 + ($17 >>> 0 < 16 >>> 0 | ($21 | 0) == (15 | 0) | 0) | 0;
+										HEAP32[($5_1 + (($3_1 & 15 | 0) << 2 | 0) | 0) >> 2] = $18;
+										$3_1 = $3_1 + (!$20 | ($20 | 0) == (15 | 0) | 0) | 0;
+										$4_1 = $4_1 + 3 | 0;
+									}
+									$8 = $8 + 1 | 0;
+									$4_1 = $4_1 & 15 | 0;
+									$3_1 = $3_1 & 15 | 0;
+									$7 = $7 + 3 | 0;
+									if ($7 >>> 0 < $1_1 >>> 0) {
+										continue label$3
+									}
+									break label$3;
+								}				}
+							$6 = ($6 | 0) == ($10 | 0) ? 0 : -3;
+						}
+						global$0 = $5_1 + 192 | 0;
+						return $6 | 0;
+					}
+
+					function $3($0_1) {
+						$0_1 = $0_1 | 0;
+						var $1_1 = 0, $2_1 = 0, $3_1 = 0;
+						$1_1 = HEAP32[(0 + 1024 | 0) >> 2] | 0;
+						$0_1 = $1_1 + (($0_1 + 3 | 0) & -4 | 0) | 0;
+						HEAP32[(0 + 1024 | 0) >> 2] = $0_1;
+						label$1: {
+							label$2: {
+								$2_1 = __wasm_memory_size() << 16 | 0;
+								if ($0_1 >>> 0 <= $2_1 >>> 0) {
+									break label$2
+								}
+								$3_1 = -1;
+								if ((__wasm_memory_grow((($0_1 - $2_1 | 0) + 65535 | 0) >>> 16 | 0 | 0) | 0) == (-1 | 0)) {
+									break label$1
+								}
+							}
+							$3_1 = $1_1;
+						}
+						return $3_1 | 0;
+					}
+
+					function $4($0_1, $1_1, $2_1) {
+						$0_1 = $0_1 | 0;
+						$1_1 = $1_1 | 0;
+						$2_1 = $2_1 | 0;
+						var $3_1 = 0;
+						label$1: {
+							label$2: {
+								if (!(($1_1 | $0_1 | 0) & 3 | 0)) {
+									break label$2
+								}
+								$3_1 = $0_1;
+								break label$1;
+							}
+							label$3: {
+								label$4: {
+									if ($2_1 >>> 0 >= 16 >>> 0) {
+										break label$4
+									}
+									$3_1 = $0_1;
+									break label$3;
+								}
+								$3_1 = $0_1;
+								label$5: while (1) {
+									HEAP32[$3_1 >> 2] = HEAP32[$1_1 >> 2] | 0;
+									HEAP32[($3_1 + 4 | 0) >> 2] = HEAP32[($1_1 + 4 | 0) >> 2] | 0;
+									HEAP32[($3_1 + 8 | 0) >> 2] = HEAP32[($1_1 + 8 | 0) >> 2] | 0;
+									HEAP32[($3_1 + 12 | 0) >> 2] = HEAP32[($1_1 + 12 | 0) >> 2] | 0;
+									$1_1 = $1_1 + 16 | 0;
+									$3_1 = $3_1 + 16 | 0;
+									$2_1 = $2_1 + -16 | 0;
+									if ($2_1 >>> 0 > 15 >>> 0) {
+										continue label$5
+									}
+									break label$5;
+								}				}
+							if ($2_1 >>> 0 < 4 >>> 0) {
+								break label$1
+							}
+							label$6: while (1) {
+								HEAP32[$3_1 >> 2] = HEAP32[$1_1 >> 2] | 0;
+								$1_1 = $1_1 + 4 | 0;
+								$3_1 = $3_1 + 4 | 0;
+								$2_1 = $2_1 + -4 | 0;
+								if ($2_1 >>> 0 > 3 >>> 0) {
+									continue label$6
+								}
+								break label$6;
+							}			}
+						label$7: {
+							if (!$2_1) {
+								break label$7
+							}
+							label$8: while (1) {
+								HEAP8[$3_1 >> 0] = HEAPU8[$1_1 >> 0] | 0;
+								$3_1 = $3_1 + 1 | 0;
+								$1_1 = $1_1 + 1 | 0;
+								$2_1 = $2_1 + -1 | 0;
+								if ($2_1) {
+									continue label$8
+								}
+								break label$8;
+							}			}
+						return $0_1 | 0;
+					}
+
+					function $5($0_1, $1_1, $2_1) {
+						$0_1 = $0_1 | 0;
+						$1_1 = $1_1 | 0;
+						$2_1 = $2_1 | 0;
+						var $3_1 = 0, $4_1 = 0;
+						label$1: {
+							label$2: {
+								if (!($0_1 & 3 | 0)) {
+									break label$2
+								}
+								$3_1 = $0_1;
+								break label$1;
+							}
+							$4_1 = Math_imul($1_1 & 255 | 0, 16843009);
+							label$3: {
+								label$4: {
+									if ($2_1 >>> 0 >= 16 >>> 0) {
+										break label$4
+									}
+									$3_1 = $0_1;
+									break label$3;
+								}
+								$3_1 = $0_1;
+								label$5: while (1) {
+									HEAP32[$3_1 >> 2] = $4_1;
+									HEAP32[($3_1 + 12 | 0) >> 2] = $4_1;
+									HEAP32[($3_1 + 8 | 0) >> 2] = $4_1;
+									HEAP32[($3_1 + 4 | 0) >> 2] = $4_1;
+									$3_1 = $3_1 + 16 | 0;
+									$2_1 = $2_1 + -16 | 0;
+									if ($2_1 >>> 0 > 15 >>> 0) {
+										continue label$5
+									}
+									break label$5;
+								}				}
+							if ($2_1 >>> 0 < 4 >>> 0) {
+								break label$1
+							}
+							label$6: while (1) {
+								HEAP32[$3_1 >> 2] = $4_1;
+								$3_1 = $3_1 + 4 | 0;
+								$2_1 = $2_1 + -4 | 0;
+								if ($2_1 >>> 0 > 3 >>> 0) {
+									continue label$6
+								}
+								break label$6;
+							}			}
+						label$7: {
+							if (!$2_1) {
+								break label$7
+							}
+							label$8: while (1) {
+								HEAP8[$3_1 >> 0] = $1_1;
+								$3_1 = $3_1 + 1 | 0;
+								$2_1 = $2_1 + -1 | 0;
+								if ($2_1) {
+									continue label$8
+								}
+								break label$8;
+							}			}
+						return $0_1 | 0;
+					}
+					bufferView = HEAPU8;
+					initActiveSegments();
+					function __wasm_memory_size() {
+						return buffer.byteLength / 65536 | 0;
+					}
+
+					function __wasm_memory_grow(pagesToAdd) {
+						pagesToAdd = pagesToAdd | 0;
+						var oldPages = __wasm_memory_size() | 0;
+						var newPages = oldPages + pagesToAdd | 0;
+						if ((oldPages < newPages) && (newPages < 65536)) {
+							var newBuffer = new ArrayBuffer(Math_imul(newPages, 65536));
+							var newHEAP8 = new Int8Array(newBuffer);
+							newHEAP8.set(HEAP8);
+							HEAP8 = new Int8Array(newBuffer);
+							HEAP16 = new Int16Array(newBuffer);
+							HEAP32 = new Int32Array(newBuffer);
+							HEAPU8 = new Uint8Array(newBuffer);
+							buffer = newBuffer;
+							bufferView = HEAPU8;
+						}
+						return oldPages;
+					}
+
+					return {
+						"memory": Object.create(Object.prototype, {
+							"grow": {
+								"value": __wasm_memory_grow
+							},
+							"buffer": {
+								"get": function () {
+									return buffer;
+								}
+
+							}
+						}),
+						"__wasm_call_ctors": $0,
+						"meshopt_decodeVertexBuffer": $1,
+						"meshopt_decodeIndexBuffer": $2,
+						"sbrk": $3
+					};
+				}
+
+				return asmFunc(asmLibraryArg);
+			}
+			}); exports({ 'default': meshopt_decoder_asm, __moduleExports: meshopt_decoder_asm });
+
+		})
+	};
+}));

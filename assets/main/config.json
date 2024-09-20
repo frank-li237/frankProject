@@ -1,0 +1,50 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "main",
+    "deps": [],
+    "uuids": [
+        "0b26cacf7",
+        "67b4505c-1ada-48df-ad29-d968c563eab8",
+        "67b4505c-1ada-48df-ad29-d968c563eab8@6c48a",
+        "67b4505c-1ada-48df-ad29-d968c563eab8@f9941",
+        "8e1b49d2-764d-434e-a358-18ff47e934ba",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8"
+    ],
+    "paths": {
+        "8e1b49d2-764d-434e-a358-18ff47e934ba": [
+            "db:/assets/GameScene",
+            "cc.SceneAsset",
+            1
+        ],
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8": [
+            "db:/internal/default_renderpipeline/builtin-forward",
+            "cc.RenderPipeline",
+            1
+        ],
+        "ba21476f-2866-4f81-9c4d-6e359316e448": [
+            "db:/internal/physics/default-physics-material",
+            "cc.PhysicsMaterial",
+            1
+        ]
+    },
+    "scenes": {
+        "db://assets/GameScene.scene": "8e1b49d2-764d-434e-a358-18ff47e934ba"
+    },
+    "packs": {
+        "0b26cacf7": [
+            "67b4505c-1ada-48df-ad29-d968c563eab8@f9941",
+            "8e1b49d2-764d-434e-a358-18ff47e934ba"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
